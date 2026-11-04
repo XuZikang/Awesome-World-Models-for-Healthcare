@@ -353,6 +353,18 @@
       "p-b28244f171a36aab9f9a"
     ],
     [
+      "arxiv_id:2610.38289",
+      "p-e5e36b2f7b895e6e3a45"
+    ],
+    [
+      "arxiv_id:2610.40947",
+      "p-beea5e8ed66ddb0134a0"
+    ],
+    [
+      "arxiv_id:2610.41042",
+      "p-235fc0824fcffae6053e"
+    ],
+    [
       "arxiv_id:2611.01666",
       "p-63564ae7e4cfeb2df2c3"
     ],
@@ -365,12 +377,20 @@
       "p-cdc8043e2de8b38f5ab3"
     ],
     [
+      "doi:10.1002/bit.70433",
+      "p-153a1ea8b8272b8f8db6"
+    ],
+    [
       "doi:10.1002/jbm.a.70181",
       "p-3d64048702f422c07394"
     ],
     [
       "doi:10.1002/pro.70794",
       "p-14e20f1cb202524e7adb"
+    ],
+    [
+      "doi:10.1002/smmd.70060",
+      "p-65cb7a314802a4716578"
     ],
     [
       "doi:10.1007/s00113-026-01779-8",
@@ -429,8 +449,24 @@
       "p-72122dd988c965152f47"
     ],
     [
+      "doi:10.1016/j.coms.2026.09.007",
+      "p-edc619ca8269ca7f45c1"
+    ],
+    [
+      "doi:10.1016/j.diabet.2026.101801",
+      "p-a001c5dc2b739a2c7444"
+    ],
+    [
       "doi:10.1016/j.hrthm.2026.03.1962",
       "p-ed9faecd89020e8ce245"
+    ],
+    [
+      "doi:10.1016/j.ijmedinf.2026.106783",
+      "p-b8bf089de352430e5422"
+    ],
+    [
+      "doi:10.1016/j.ijpharm.2026.127605",
+      "p-973dc71a0df3e21f6364"
     ],
     [
       "doi:10.1016/j.jpi.2026.100720",
@@ -459,6 +495,10 @@
     [
       "doi:10.1016/j.toxlet.2026.113189",
       "p-345fc899021da38e74dd"
+    ],
+    [
+      "doi:10.1016/j.xcrm.2026.103119",
+      "p-f876fb8d6d6b703c1671"
     ],
     [
       "doi:10.1021/acs.molpharmaceut.6c00453",
@@ -505,12 +545,20 @@
       "p-96de8c36302b9802f90f"
     ],
     [
+      "doi:10.1080/14787210.2026.2756297",
+      "p-0e0c66c6a10cc278606c"
+    ],
+    [
       "doi:10.1088/1361-6560/ae835a",
       "p-72451862bf20024305a0"
     ],
     [
       "doi:10.1088/1361-6560/ae9687",
       "p-5a83d9588ad0b6c7ec89"
+    ],
+    [
+      "doi:10.1088/1361-6560/aeb699",
+      "p-8a815572639b6c939714"
     ],
     [
       "doi:10.1088/2057-1976/ae7d30",
@@ -557,8 +605,16 @@
       "p-e5cfe60b3c3836160d8d"
     ],
     [
+      "doi:10.21203/rs.3.rs-11327969/v1",
+      "p-596c8bcb2d36089a881e"
+    ],
+    [
       "doi:10.21203/rs.3.rs-11569452/v1",
       "p-5f1eac4c6aec205d313d"
+    ],
+    [
+      "doi:10.2196/103362",
+      "p-0cddb9f876c8091ae26a"
     ],
     [
       "doi:10.64898/2026.10.29.762792",
@@ -603,6 +659,10 @@
     [
       "pmcid:pmc13715081",
       "p-6f597cce41d570496499"
+    ],
+    [
+      "pmcid:pmc13720981",
+      "p-65cb7a314802a4716578"
     ],
     [
       "pmid:39557619",
@@ -793,12 +853,52 @@
       "p-1d6534420636f64b3762"
     ],
     [
+      "pmid:42899676",
+      "p-8a815572639b6c939714"
+    ],
+    [
       "pmid:42911378",
       "p-7a76802f9f6ba53b8147"
     ],
     [
+      "pmid:42933397",
+      "p-f876fb8d6d6b703c1671"
+    ],
+    [
       "pmid:42949247",
       "p-6f597cce41d570496499"
+    ],
+    [
+      "pmid:42951245",
+      "p-a001c5dc2b739a2c7444"
+    ],
+    [
+      "pmid:42951803",
+      "p-edc619ca8269ca7f45c1"
+    ],
+    [
+      "pmid:42954038",
+      "p-153a1ea8b8272b8f8db6"
+    ],
+    [
+      "pmid:42955065",
+      "p-0cddb9f876c8091ae26a"
+    ],
+    [
+      "pmid:42955867",
+      "p-0e0c66c6a10cc278606c"
+    ],
+    [
+      "pmid:42957071",
+      "p-973dc71a0df3e21f6364"
+    ],
+    [
+      "pmid:42964987",
+      "p-65cb7a314802a4716578"
+    ],
+    [
+      "pmid:42967410",
+      "p-b8bf089de352430e5422"
     ],
     [
       "pmid:42969730",
@@ -857,12 +957,20 @@
       "p-468f4a9a331be11fa7f4"
     ],
     [
+      "title:agenticartificialintelligencedrivenneutrosophicmultiobjectiveoptimizationofoxygentransfersystemsinsmartbioreactors",
+      "p-153a1ea8b8272b8f8db6"
+    ],
+    [
       "title:agentifyingpatientdynamicswithinllmsthroughinteractingwithclinicalworldmodel",
       "p-f2ee5ed33c3bb980ad3d"
     ],
     [
       "title:aiaugmentedadaptivedigitaltwinmodelingforbraintumorevolutionpredictionandtreatmentscheduling",
       "p-bc7a039767fb5804ae48"
+    ],
+    [
+      "title:aienabledpatientprofilingforpersonalizednursingcareandhealthsupportscopingreview",
+      "p-0cddb9f876c8091ae26a"
     ],
     [
       "title:aneikonalmodelwithreexcitabilityforfastsimulationsincardiacelectrophysiology",
@@ -901,12 +1009,20 @@
       "p-a4fbaeac98f7c02bd914"
     ],
     [
+      "title:artificialintelligenceincleftandcraniofacialcare",
+      "p-edc619ca8269ca7f45c1"
+    ],
+    [
       "title:artificialintelligenceinpediatricnephrologycurrentapplicationsandemergingframeworksforevidencegeneration",
       "p-304203b461b8ba725929"
     ],
     [
       "title:assessingtheroleofmodelcomplexityinvirtualclinicaltrialoutcomes",
       "p-f3fcf6ff3651bfddd66a"
+    ],
+    [
+      "title:asystemdynamicsmodelforzeroemissionheavyvehicletransitioninaustralia",
+      "p-235fc0824fcffae6053e"
     ],
     [
       "title:automaticpatientspecificmicrowaveablationplanningacceleratedbyaphysicsguideddeeplearningmodel",
@@ -1051,6 +1167,10 @@
     [
       "title:endowamagroundedworldactionmodelforgeneralizableendoscopicnavigation",
       "p-1ef55d011f5467e439f1"
+    ],
+    [
+      "title:engineeringsmartliposomestocombatantimicrobialresistancefrommechanisticdesigntoclinicaltranslation",
+      "p-0e0c66c6a10cc278606c"
     ],
     [
       "title:enhancingpersonalizedbladdercancertreatmentthroughreinforcementlearningarecurrentpatientstatetransitiondecisionsupportframework",
@@ -1229,6 +1349,10 @@
       "p-36aa4c085ad367a2ad27"
     ],
     [
+      "title:nonlinearstabilityphenotypesandcollapsedynamicsofmultiorganradiomicsintotalbodypetimagingtowarddigitaltwinorientedrobustnessassessment",
+      "p-8a815572639b6c939714"
+    ],
+    [
       "title:nvidiacosmoshdreamsrealtimegenerativephysicssimulationforsurgicalrobotics",
       "p-7a667304fe67303ecc17"
     ],
@@ -1253,6 +1377,10 @@
       "p-436907c35e7c0381b1e3"
     ],
     [
+      "title:patientinformedbiomechanicalmodelingrevealsmechanicalmechanismofbraindamageinidiopathicnormalpressurehydrocephalus",
+      "p-65cb7a314802a4716578"
+    ],
+    [
       "title:patientspecificdeepofflineartificialpancreasforbloodglucoseregulationintype1diabetes",
       "p-f2b39316386a4897a911"
     ],
@@ -1271,6 +1399,10 @@
     [
       "title:pharosturningsinglecellperturbationmodelsintotargetdirecteddrugcombinationscreens",
       "p-2009803dd3ec81e901b1"
+    ],
+    [
+      "title:physiciandigitalhealthliteracyandgenerativeaiforpublichealthcommunicationafivecountrycomparativecasestudywithamedvidinformeddigitaltwinmodelforshanghai",
+      "p-b8bf089de352430e5422"
     ],
     [
       "title:physicsinformedkoopmanconstrainedimplicitqlearningforsafeofflinereinforcementlearninginmechanicalventilation",
@@ -1297,6 +1429,10 @@
       "p-2f1d31a38ca97568bd34"
     ],
     [
+      "title:pulmoworldanasynchronousmultimodalmedicalworldmodelforlongitudinalpneumoniadynamics",
+      "p-e5e36b2f7b895e6e3a45"
+    ],
+    [
       "title:pulsephysiologyenginetosimulatetransientoxygenchangesandclosedloopautonomouspumpcontrolduringvenovenousextracorporealmembraneoxygenation",
       "p-5f1eac4c6aec205d313d"
     ],
@@ -1311,6 +1447,10 @@
     [
       "title:reimaginingantimicrobialresistanceaidrivenpredictiveepidemiologyandthecamreframeworkfornextgenerationantibioticdiscovery",
       "p-f07bebc7334c95ac54d8"
+    ],
+    [
+      "title:reinforcementlearningwithworldmodelsintheeraofscalefromonlineimaginationtoworldactionmodels",
+      "p-596c8bcb2d36089a881e"
     ],
     [
       "title:s2hwmsparseeventstructuredhierarchicalworldmodelforlonghorizonsurgicalrobotmanipulation",
@@ -1385,6 +1525,10 @@
       "p-5a83d9588ad0b6c7ec89"
     ],
     [
+      "title:towardsadigitaltwinforprecisiondiabetescareaphenotypicmappingandvirtualrepresentationofapersonlivingwithtype1diabetesinthesfdt1study",
+      "p-a001c5dc2b739a2c7444"
+    ],
+    [
       "title:towardsafeautonomousroboticendovascularinterventionsusingworldmodels",
       "p-e1f2ffd3f6ef2bb0aaee"
     ],
@@ -1421,8 +1565,16 @@
       "p-2542a9aabb6edd0bb3f1"
     ],
     [
+      "title:tumordigitaltwinsuncovertherapeuticstrategiesintriplenegativebreastcancer",
+      "p-f876fb8d6d6b703c1671"
+    ],
+    [
       "title:twinrloncoaworldmodelempowereddigitaltwinframeworkwithhierarchicalreinforcementlearningforvenetoclaxresistancetrajectorypredictionandadaptivetherapyoptimizationinchroniclymphocyticleukemia",
       "p-deee645997aaa5cd8546"
+    ],
+    [
+      "title:ufmfradarguidedkinematicpriorsforrealtime4doccupancyforecasting",
+      "p-beea5e8ed66ddb0134a0"
     ],
     [
       "title:uncoveringdiseaseprogressiontrajectoriesacrossmultipletimescaleswithhybridodemixturemodels",
@@ -1439,6 +1591,10 @@
     [
       "title:upertunbalancedperturbationdynamicsforcellfatedesign",
       "p-8938fa4abe1862b77356"
+    ],
+    [
+      "title:validatingcompleteairwaycomputationalfluiddynamicscacfdpredictionsofregionalaerosoldepositioninhumansubjectscomparisonswithinvivodataofpharmaceuticalaerosoldeliveryduringhfnctherapy",
+      "p-973dc71a0df3e21f6364"
     ],
     [
       "title:vcworldabiologicalworldmodelforvirtualcellsimulation",
@@ -1534,6 +1690,103 @@
       }
     ],
     [
+      "p-0cddb9f876c8091ae26a",
+      "0d5ee57267d1c7efb61d6f1ada4b53b7c25d09b8cf6539a1bb184c1f8a1465fc",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": false,
+            "quote": ""
+          },
+          "evaluation": {
+            "met": true,
+            "quote": "Most studies evaluated algorithmic performance, feasibility, usability, or system development"
+          },
+          "medical": {
+            "met": true,
+            "quote": "to organize heterogeneous patient data and support personalized nursing care"
+          },
+          "rollout": {
+            "met": false,
+            "quote": ""
+          },
+          "state": {
+            "met": true,
+            "quote": "patient profiles, patient or user personas, digital phenotypes, patient segments, clinical subtypes, digital twins"
+          }
+        },
+        "decision": "related",
+        "evidence_level": "abstract",
+        "evidence_url": "https://europepmc.org/article/MED/42955065",
+        "limitations_zh": "所提供摘要仅呈现综述层面的归纳，无法核验纳入研究的状态转移定义、实现细节或代码链接；摘要未报告任何单一系统的前瞻性 rollout 评估，也无法核验临床获益。",
+        "metadata": {
+          "Capability": [],
+          "Dynamics": [],
+          "State": [
+            "Patient"
+          ]
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "该文为摘要层面的范围综述，属综述类文献，按规则不能 suggest_include；但其主题为AI患者画像支撑个性化护理与决策支持，与患者状态建模相关，故列为 related。摘要未报告可核验的学习/混合状态转移与操作性 rollout 评估，相关准则不满足。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "这是一篇范围综述（摘要层面），梳理61项研究，考察AI驱动的患者画像（患者档案、数字表型、临床亚型、数字孪生、LLM个性化）如何用于个性化护理与健康支持；指出多数研究仅评估算法性能、可行性与可用性，画像有效性、可执行性与真实世界实施证据不足。",
+        "text_truncated": false,
+        "topics": [
+          "Longitudinal EHR and Clinical Trajectories",
+          "Treatment Planning and Clinical Decision Support"
+        ],
+        "warning": ""
+      }
+    ],
+    [
+      "p-0e0c66c6a10cc278606c",
+      "15f48eca72d693bf93e88c008916028d44115eef52c8c0dd07c11a713b275854",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": false,
+            "quote": ""
+          },
+          "evaluation": {
+            "met": false,
+            "quote": ""
+          },
+          "medical": {
+            "met": true,
+            "quote": "improving antimicrobial therapy through targeted delivery, enhanced bacterial uptake, biofilm penetration"
+          },
+          "rollout": {
+            "met": false,
+            "quote": ""
+          },
+          "state": {
+            "met": false,
+            "quote": ""
+          }
+        },
+        "decision": "related",
+        "evidence_level": "abstract",
+        "evidence_url": "https://europepmc.org/article/MED/42955867",
+        "limitations_zh": "仅提供摘要；无法核验全文方法、代码或实验细节。文章为综述，未报告可评估的世界模型、状态转移或操作性前瞻预测。",
+        "metadata": {
+          "Capability": [],
+          "Dynamics": [],
+          "State": []
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "综述性文章，聚焦脂质体药物递送与抗感染治疗转化，非世界模型方法；摘要未报告状态表示、学习/混合动力学、操作性预测或已实现评估，故列为 related。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "该文综述智能脂质体用于抗耐药菌感染的理性设计、刺激响应与可编程系统、PK/PD改善及临床转化障碍，并讨论AI配方优化、微流控制造和数字孪生等决策支持方向。",
+        "text_truncated": false,
+        "topics": [
+          "Treatment Planning and Clinical Decision Support"
+        ],
+        "warning": ""
+      }
+    ],
+    [
       "p-14e20f1cb202524e7adb",
       "15e3c2a011bad50567c867f2c39c49784359fea1d16db93b559be72f5c025a6b",
       {
@@ -1582,6 +1835,64 @@
         "reason_zh": "论文提出面向蛋白质折叠的生成式世界模型：状态为蛋白构象，动作为二面角扰动，学习潜空间动作条件转移并由控制器迭代rollout，且与长时MD和实验数据做路径相似性评估，符合纳入标准。",
         "reviewed_on": "2026-11-04",
         "summary_zh": "DreamFold在潜空间构建蛋白质折叠世界模型：用VAE编码蛋白构象与二面角动作，FFN学习动作条件下的构象转移，控制器从非折叠态迭代rollout生成折叠路径，并与长时MD及实验数据比较。",
+        "text_truncated": false,
+        "topics": [
+          "Computational Biology and Cellular Dynamics"
+        ],
+        "warning": ""
+      }
+    ],
+    [
+      "p-153a1ea8b8272b8f8db6",
+      "c7e020487578b19fb8b4e2d34f97506ff8e039f660e72845e1681bce9640fbe7",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": true,
+            "quote": "generating and screening control options, and virtually evaluating them before implementation"
+          },
+          "evaluation": {
+            "met": true,
+            "quote": "achieved 98.04% dissolved oxygen stability and reduced the recovery time after oxygen demand shock to 7.26 min"
+          },
+          "medical": {
+            "met": false,
+            "quote": ""
+          },
+          "rollout": {
+            "met": true,
+            "quote": "predicting short-term behavior, generating and screening control options, and virtually evaluating them"
+          },
+          "state": {
+            "met": true,
+            "quote": "by continuously monitoring and reconstructing the process state"
+          }
+        },
+        "decision": "hold",
+        "evidence_level": "abstract",
+        "evidence_url": "https://europepmc.org/article/MED/42954038",
+        "limitations_zh": "仅提供摘要；未报告医学或临床任务，学习与混合转移的实现细节、代码与外部验证无法核验；生物反应器场景的医学相关性无法核实。",
+        "metadata": {
+          "Capability": [
+            "Control",
+            "Forecast",
+            "Plan",
+            "Simulate"
+          ],
+          "Dynamics": [
+            "Action-conditioned",
+            "Mechanistic",
+            "Temporal"
+          ],
+          "State": [
+            "Cell"
+          ]
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "摘要显示该工作为生物反应器氧转移的闭环数字孪生与AI控制框架，含状态重构、短期预测与控制方案虚拟评估，但所提供文本未体现医学任务，且学习/混合转移与代码均无法核验，故暂缓而非纳入。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "面向智能生物反应器氧转移提出闭环框架，融合同步数字孪生、智能体AI、模糊中性学建模与多目标决策；持续重构过程状态、预测短期行为并虚拟筛选控制方案，摘要报告溶解氧稳定性98.04%、氧需求冲击后恢复7.26分钟。",
         "text_truncated": false,
         "topics": [
           "Computational Biology and Cellular Dynamics"
@@ -1641,6 +1952,59 @@
           "Longitudinal EHR and Clinical Trajectories"
         ],
         "warning": ""
+      }
+    ],
+    [
+      "p-235fc0824fcffae6053e",
+      "113148524b033a8f25870b15147d3b411a4f1eee4baecee80cc6cfc0f1a8281b",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": false,
+            "quote": ""
+          },
+          "evaluation": {
+            "met": false,
+            "quote": ""
+          },
+          "medical": {
+            "met": false,
+            "quote": ""
+          },
+          "rollout": {
+            "met": false,
+            "quote": ""
+          },
+          "state": {
+            "met": false,
+            "quote": ""
+          }
+        },
+        "decision": "exclude",
+        "evidence_level": "abstract",
+        "evidence_url": "https://arxiv.org/abs/2610.41042",
+        "limitations_zh": "仅有摘要，未提供模型方程、参数校准细节与验证结果；研究对象为交通能源与政策系统，不涉及任何医学任务、患者或生理状态，无法核验其代码与实验实现。",
+        "metadata": {
+          "Capability": [
+            "Forecast",
+            "Simulate"
+          ],
+          "Dynamics": [
+            "Temporal",
+            "Mechanistic"
+          ],
+          "State": [
+            "Population"
+          ]
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "主题为重型货车零排放转型的交通能源政策系统动力学建模，既无医学任务，也无患者、细胞、分子或生理状态等生物医学状态，亦不涉及经学习或混合方式建模的临床转移动力学，故不属于生物医学世界模型综述范围。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "该研究构建澳大利亚刚性货车与铰接货车车队的系统动力学模型，模拟至2050年零排放重卡的渗透路径，比较柴油税、道路使用费、碳价、购置补贴与运营成本支持等政策工具的效果，结论是单一工具作用有限，需“推—拉”组合政策并配合充电网络信心建设。",
+        "text_truncated": false,
+        "topics": [],
+        "warning": "Full-text access failed (HTTPError); abstract retained."
       }
     ],
     [
@@ -2023,6 +2387,61 @@
       }
     ],
     [
+      "p-596c8bcb2d36089a881e",
+      "d38b20bbb1bed84d20a0ce2ddc2a2e5c2334e36e2a82f21ca64c14b635c6bba5",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": true,
+            "quote": "agents learn a parameterized model of environmental dynamics that serves as the basis for planning"
+          },
+          "evaluation": {
+            "met": false,
+            "quote": ""
+          },
+          "medical": {
+            "met": true,
+            "quote": "facilitating applications in medical therapy and molecular dynamics"
+          },
+          "rollout": {
+            "met": true,
+            "quote": "planning, imagination-based policy training, or synthetic data generation in decision making tasks"
+          },
+          "state": {
+            "met": false,
+            "quote": ""
+          }
+        },
+        "decision": "related",
+        "evidence_level": "abstract",
+        "evidence_url": "https://europepmc.org/article/PPR/PPR1353089",
+        "limitations_zh": "仅有摘要：所提供摘要未报告任何具体生物医学任务、患者/细胞/分子状态变量、转移模型实现或量化评估，也未给出代码链接。无法核验其医疗与分子动力学部分是否包含可操作的动态建模与预测实验；且摘要明确为综述，不能作为原创方法纳入。",
+        "metadata": {
+          "Capability": [
+            "Plan",
+            "Simulate"
+          ],
+          "Dynamics": [
+            "Action-conditioned",
+            "Temporal"
+          ],
+          "State": [
+            "Molecule"
+          ]
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "摘要显示该文为综述性回顾，仅泛泛提及“medical therapy and molecular dynamics”“healthcare”等应用领域，未提出具体医学任务、状态表示、可学习/混合转移与实施评估；按规则摘要级综述归为related而非suggest_include，也非exclude（因不能断定全文无医学内容）。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "这是一篇WM-RL综述（2019–2026），梳理从在线基于模型强化学习到“预训练+想象式策略训练”、从解耦世界模型与策略到统一World Action Models、再到物理AI基础设施的三次范式转移，并列举PlaNet、RSSM、Dreamer、Transformer世界模型、扩散动力学与JEPA等架构，覆盖机器人、自动驾驶、LLM智能体、医疗与游戏等领域。",
+        "text_truncated": false,
+        "topics": [
+          "Computational Biology and Cellular Dynamics"
+        ],
+        "warning": ""
+      }
+    ],
+    [
       "p-5f1eac4c6aec205d313d",
       "945270344429ebefff6a8f8b7a49512d716d8dca65b8e536dba342a8fb1f38b5",
       {
@@ -2182,6 +2601,61 @@
         "summary_zh": "提出基于设计律的条件随机化检验，用于判断生物世界模型的预测是否真正受动作影响；揭示替代诊断的“替身效应”和多站点汇集的放大偏差，并在光遗传ERK细胞实验与像素世界模型中验证。",
         "text_truncated": true,
         "topics": [
+          "Computational Biology and Cellular Dynamics"
+        ],
+        "warning": ""
+      }
+    ],
+    [
+      "p-65cb7a314802a4716578",
+      "4765ad8e480280981683d14fefe6ce84dc3554ac04f6ed5035d82d01495687b9",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": false,
+            "quote": ""
+          },
+          "evaluation": {
+            "met": true,
+            "quote": "corresponding to only a 0.7% relative error compared with the median callosal angle of iNPH patients"
+          },
+          "medical": {
+            "met": true,
+            "quote": "can accurately reproduce established radiological markers of the iNPH disease"
+          },
+          "rollout": {
+            "met": true,
+            "quote": "Ventricular expansion was modeled by increasing the magnitude of these vectors simultaneously from zero to their maximum value"
+          },
+          "state": {
+            "met": true,
+            "quote": "anatomically accurate finite element model of the brain"
+          }
+        },
+        "decision": "related",
+        "evidence_level": "full_text",
+        "evidence_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13720981/fullTextXML",
+        "limitations_zh": "全文为机制性有限元建模，未报告学习型或混合状态转移；应变预测基于组平均模板，无法个体化，也未见临床结局相关性；代码需向通讯作者索取。",
+        "metadata": {
+          "Capability": [
+            "Simulate"
+          ],
+          "Dynamics": [
+            "Mechanistic",
+            "Spatial/view"
+          ],
+          "State": [
+            "Anatomy"
+          ]
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "研究实现医学影像任务、脑解剖状态、心室扩张rollout及与患者指标比较的评估；但核心为机制性有限元模拟，缺少学习或混合状态转移，按规则归为related而非suggest_include。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "构建iNPH患者信息化的三维有限元脑模型，用MRI注册得到心室衬里位移场驱动心室扩张，预测Evans指数、z-Evans指数、胼胝体角及白质束应变，并与患者影像指标比较。",
+        "text_truncated": false,
+        "topics": [
+          "Medical Imaging and Radiology",
           "Computational Biology and Cellular Dynamics"
         ],
         "warning": ""
@@ -2518,6 +2992,158 @@
       }
     ],
     [
+      "p-8a815572639b6c939714",
+      "845ac1aea16d6860021c72b5bf645e4b6c966670daeb59bc70d38c0d751c7adf",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": false,
+            "quote": ""
+          },
+          "evaluation": {
+            "met": true,
+            "quote": "Feature-level analysis identified frequent sigmoid-associated collapse patterns with high descriptive model fits"
+          },
+          "medical": {
+            "met": true,
+            "quote": "Radiomics analysis in positron emission tomography (PET) offers a high-dimensional representation of tissue characteristics"
+          },
+          "rollout": {
+            "met": false,
+            "quote": ""
+          },
+          "state": {
+            "met": true,
+            "quote": "A total of 107 radiomics features were extracted per organ."
+          }
+        },
+        "decision": "related",
+        "evidence_level": "abstract",
+        "evidence_url": "https://europepmc.org/article/MED/42899676",
+        "limitations_zh": "仅提供摘要，所提供摘要未报告动作条件状态转移动力学或操作级预测/rollout；无法核验完整方法、代码与实验，结论限于影像组学稳健性分析。",
+        "metadata": {
+          "Capability": [],
+          "Dynamics": [],
+          "State": [
+            "Medical image"
+          ]
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "摘要显示医学影像任务与器官特征状态，并拟合非线性剂量响应轨迹和稳定性评估，但无候选动作改变传播状态的预测/rollout证据，故仅为相关。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "该研究分析550例全身PET在多剂量缩减下的107个多器官影像组学特征，拟合非线性稳定性表型与崩溃轨迹，识别器官特异性阈值，面向数字孪生稳健性评估。",
+        "text_truncated": false,
+        "topics": [
+          "Medical Imaging and Radiology"
+        ],
+        "warning": ""
+      }
+    ],
+    [
+      "p-973dc71a0df3e21f6364",
+      "543c9e7fe1e29e14fa3a0c36e6a92d9e5454c0094e3ae51304fc6f26d4f0032c",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": true,
+            "quote": "CFD model included the aerosol delivery tubing and interface connected to a complete-airway (CA) model"
+          },
+          "evaluation": {
+            "met": true,
+            "quote": "CFD-predicted regional aerosol deposition was compared with previously published in vivo experimental data"
+          },
+          "medical": {
+            "met": true,
+            "quote": "pharmaceutical aerosol delivery simultaneous with HFNC support is known to be highly inefficient"
+          },
+          "rollout": {
+            "met": false,
+            "quote": ""
+          },
+          "state": {
+            "met": true,
+            "quote": "complete-airway (CA) model extending from the extrathoracic nose-throat (NT) region through the conducting airways and alveoli"
+          }
+        },
+        "decision": "related",
+        "evidence_level": "abstract",
+        "evidence_url": "https://pubmed.ncbi.nlm.nih.gov/42957071/",
+        "limitations_zh": "仅提供摘要，无法核验完整方法、代码或更多实验；模型属CFD机制模拟，未见学习/混合状态转移或时序rollout。",
+        "metadata": {
+          "Capability": [
+            "Simulate"
+          ],
+          "Dynamics": [
+            "Mechanistic",
+            "Spatial/view"
+          ],
+          "State": [
+            "Anatomy"
+          ]
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "该工作建立并验证完整气道CFD气溶胶沉积模型，属机制仿真；缺乏学习/混合转移及可操作时序预测证据，故按相关文献处理。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "开发并验证完整气道CFD模型，预测HFNC期间药物气溶胶的区域沉积，并与人体γ闪烁及SPECT-CT队列数据比较，肺沉积预测约2.9%。",
+        "text_truncated": false,
+        "topics": [
+          "Treatment Planning and Clinical Decision Support"
+        ],
+        "warning": ""
+      }
+    ],
+    [
+      "p-a001c5dc2b739a2c7444",
+      "f7c8e0776a9ddc3382bd1ffb8eaf4bd976230add3e83825da4e70f507801b562",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": false,
+            "quote": ""
+          },
+          "evaluation": {
+            "met": true,
+            "quote": "Structural reproducibility and individual projection were assessed in an unseen set of 235 participants."
+          },
+          "medical": {
+            "met": true,
+            "quote": "a practical clinical decision-support tool for precision diabetes care"
+          },
+          "rollout": {
+            "met": false,
+            "quote": ""
+          },
+          "state": {
+            "met": true,
+            "quote": "phenotypic mapping and virtual representation of a person living with T1D"
+          }
+        },
+        "decision": "related",
+        "evidence_level": "abstract",
+        "evidence_url": "https://europepmc.org/article/MED/42951245",
+        "limitations_zh": "所提供仅为摘要；未报告状态转移、动作条件动态或随时间rollout，未验证候选干预对轨迹的影响；所提供摘要未报告代码或完整方法。",
+        "metadata": {
+          "Capability": [],
+          "Dynamics": [],
+          "State": [
+            "Patient"
+          ]
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "摘要显示该工作为静态表型映射、个体投影与风险评分，缺乏学习/混合状态转移及操作化rollout证据，不符合世界模型纳入标准；但属于生物医学数字孪生与精准糖尿病决策支持的相关基础工作。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "该研究基于SFDT1队列2,187例成人1型糖尿病数据，用DDRTree构建七类可解释亚型的表型图谱，并在235例未见数据中评估结构可重复性和个体投影，提供多语言应用及Steno风险评分，定位为精准糖尿病数字孪生基础。",
+        "text_truncated": false,
+        "topics": [
+          "Treatment Planning and Clinical Decision Support"
+        ],
+        "warning": ""
+      }
+    ],
+    [
       "p-a4fbaeac98f7c02bd914",
       "4a29315880f34fab098b88aa5b379706af0ddb43774dc5d7bf6568f689eaf625",
       {
@@ -2619,6 +3245,106 @@
         "topics": [
           "Medical Imaging and Radiology"
         ],
+        "warning": ""
+      }
+    ],
+    [
+      "p-b8bf089de352430e5422",
+      "e2ccd08b403b825ebf6b68671720c20016e2219f67ee26c4feb8d3efb1143b64",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": false,
+            "quote": ""
+          },
+          "evaluation": {
+            "met": false,
+            "quote": ""
+          },
+          "medical": {
+            "met": true,
+            "quote": "Physicians are increasingly expected to communicate health science to the public"
+          },
+          "rollout": {
+            "met": false,
+            "quote": ""
+          },
+          "state": {
+            "met": false,
+            "quote": ""
+          }
+        },
+        "decision": "related",
+        "evidence_level": "abstract",
+        "evidence_url": "https://europepmc.org/article/MED/42967410",
+        "limitations_zh": "仅有摘要；所提供摘要未报告状态变量、转移动力学、前瞻滚动预测或实现评估，也未提供代码或因果临床获益证据。",
+        "metadata": {
+          "Capability": [],
+          "Dynamics": [],
+          "State": [
+            "Population"
+          ]
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "摘要显示为跨国比较案例与数字孪生治理设想，核心是医生传播能力与AI采用，而非医学状态建模；缺少系统状态、学习/混合转移、运行性预测及实现评估，故仅列相关。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "该文比较五国医生数字健康素养与生成式AI用于公共卫生传播，并借鉴新加坡MedVid提出面向上海的受信医生数字孪生设想；属政策与传播案例研究，未构建或评估生理/临床状态世界模型。",
+        "text_truncated": false,
+        "topics": [],
+        "warning": ""
+      }
+    ],
+    [
+      "p-beea5e8ed66ddb0134a0",
+      "8dbb965601f29fce4c3bb9ded9360b9aa62e5585f0538bb5c2af5ff6a52f13bb",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": true,
+            "quote": "decomposes future displacement into a linear extrapolation plus a learned horizon-dependent residual"
+          },
+          "evaluation": {
+            "met": true,
+            "quote": "UFMF operates at 122 FPS on a single RTX 4090 and reaches 0.45 fast-displacement mIoU on nuScenes"
+          },
+          "medical": {
+            "met": false,
+            "quote": ""
+          },
+          "rollout": {
+            "met": true,
+            "quote": "transporting a compact dynamic latent subspace during the diagonal state-space rollout"
+          },
+          "state": {
+            "met": true,
+            "quote": "The rollout states are internal latent features; the BEV map used for supervision is obtained"
+          }
+        },
+        "decision": "exclude",
+        "evidence_level": "full_text",
+        "evidence_url": "https://arxiv.org/html/2610.40947v1",
+        "limitations_zh": "全文为自动驾驶占用预测研究，任务、状态与数据均来自nuScenes道路场景；未报告生物医学任务、患者/生理状态或临床验证，不能作为医学世界模型证据。",
+        "metadata": {
+          "Capability": [
+            "Forecast",
+            "Simulate"
+          ],
+          "Dynamics": [
+            "Temporal",
+            "Spatial/view"
+          ],
+          "State": [
+            "Population"
+          ]
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "论文解决自动驾驶中快速运动目标的BEV/3D占用预测，具备学习动态、滚动预测和实现评测，但缺少任何生物医学任务或医学状态，故不属于本综述范围。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "UFMF是面向自动驾驶的实时4D占用预测世界模型：以雷达引导速度感知动态先验，结合世界坐标轨迹监督与类别高度监督，在nuScenes上以122 FPS预测未来BEV/体素占用。",
+        "text_truncated": false,
+        "topics": [],
         "warning": ""
       }
     ],
@@ -2725,6 +3451,121 @@
       }
     ],
     [
+      "p-e5e36b2f7b895e6e3a45",
+      "09a0a9c921dbcabe30c02bb5cb22ffede27e2df010e2c764d98d64c9e59606b9",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": true,
+            "quote": "History-aware filtering separates state propagation from observation-driven correction, so a measurement updates the shared belief only when it is observed."
+          },
+          "evaluation": {
+            "met": true,
+            "quote": "On the pneumonia cohort MASS, recursive forecasts are competitive with task-trained sequence models"
+          },
+          "medical": {
+            "met": true,
+            "quote": "a world model for longitudinal pneumonia dynamics that connects asynchronous state estimation"
+          },
+          "rollout": {
+            "met": true,
+            "quote": "Recursive forecasts advance H1–H4 without factual intermediate observations."
+          },
+          "state": {
+            "met": true,
+            "quote": "A shared patient world for longitudinal simulation and evidence-constrained planning."
+          }
+        },
+        "decision": "suggest_include",
+        "evidence_level": "full_text",
+        "evidence_url": "https://arxiv.org/html/2610.38289v1",
+        "limitations_zh": "规划仅在MASS-Syn已知机制模拟中验证；真实队列的动作条件主要是预测性，未证明干预效果或临床获益；MASS为私有队列，外部复现受限；影像输出为表征预测而非像素生成。",
+        "metadata": {
+          "Capability": [
+            "Forecast",
+            "Simulate",
+            "Plan",
+            "Control",
+            "Counterfactual"
+          ],
+          "Dynamics": [
+            "Action-conditioned",
+            "Temporal"
+          ],
+          "State": [
+            "Patient"
+          ]
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "论文满足纳入标准：肺炎医疗任务、患者潜在状态、学习的异步状态转移与动作条件动力学、H1–H4递归rollout，以及MASS/MIMIC和MASS-Syn上的实现评估。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "提出PulmoWorld，一个面向肺炎纵向动态的异步多模态医学世界模型：以患者信念融合临床、CT/CXR与BALF等不完整观测，学习状态传播与观测校正，递归预测未来临床值和模态表征，并在授权动作集内用Cap-MBRL进行风险约束规划。在MASS、MIMIC-IV-CXR及MASS-Syn上报告预测、预后与规划评估。",
+        "text_truncated": true,
+        "topics": [
+          "Medical Imaging and Radiology",
+          "Longitudinal EHR and Clinical Trajectories",
+          "Treatment Planning and Clinical Decision Support"
+        ],
+        "warning": ""
+      }
+    ],
+    [
+      "p-edc619ca8269ca7f45c1",
+      "225f0b896221036bdb4c4b730e9d1eec457003daf274c895599a7e42fa80c114",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": false,
+            "quote": ""
+          },
+          "evaluation": {
+            "met": false,
+            "quote": ""
+          },
+          "medical": {
+            "met": true,
+            "quote": "facilitate objective assessment, optimize treatment planning, and improve outcome evaluation"
+          },
+          "rollout": {
+            "met": false,
+            "quote": ""
+          },
+          "state": {
+            "met": true,
+            "quote": "leveraging 3-dimensional imaging, machine learning, and automated workflows"
+          }
+        },
+        "decision": "related",
+        "evidence_level": "abstract",
+        "evidence_url": "https://europepmc.org/article/MED/42951803",
+        "limitations_zh": "仅有摘要，无法核验具体方法、数据、实验与代码；所提供摘要未报告任何可学习状态转移模型或前瞻性滚动预测的实现与评估。",
+        "metadata": {
+          "Capability": [
+            "Plan"
+          ],
+          "Dynamics": [
+            "Spatial/view"
+          ],
+          "State": [
+            "Anatomy"
+          ]
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "摘要级综述，主题属颅面与唇腭裂诊疗及手术规划，与医学世界模型相关；但所提供文本只涉及影像分析、自动化工作流与数字孪生设想，未见系统状态、学习或混合转移、动作条件化滚动预测及已实现评估，故判为 related。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "该文综述人工智能在唇腭裂与颅面外科护理中的应用，涵盖三维影像、机器学习、自动化工作流、手术器械自动化设计及数字孪生概念，旨在提升诊疗精准度、效率与可及性。",
+        "text_truncated": false,
+        "topics": [
+          "Medical Imaging and Radiology",
+          "Treatment Planning and Clinical Decision Support",
+          "Surgical Simulation and Embodied Healthcare"
+        ],
+        "warning": ""
+      }
+    ],
+    [
       "p-f07bebc7334c95ac54d8",
       "6fb322d039657df5407135145f4089024805a4ede29c8e9bd139620ac73c4154",
       {
@@ -2772,6 +3613,61 @@
         "reason_zh": "文章自述为综述，围绕耐药进化轨迹预测与患者感染动力学数字孪生提出多尺度计算框架，属生物医学动态建模相关文献；但摘要级综述不能suggest_include，且所提供摘要缺乏已实现评估与动作条件化推演证据，故定为related。",
         "reviewed_on": "2026-11-04",
         "summary_zh": "该综述提出C-AMRE计算抗微生物耐药生态系统框架，整合进化智能、AI、全基因组监测、分子模拟与数字孪生，主张将AMR从表型检测与回顾性监测转向分子—患者—群体多层次的预测建模与适应性治疗决策。",
+        "text_truncated": false,
+        "topics": [
+          "Computational Biology and Cellular Dynamics",
+          "Treatment Planning and Clinical Decision Support"
+        ],
+        "warning": ""
+      }
+    ],
+    [
+      "p-f876fb8d6d6b703c1671",
+      "aae10d65953db226210cf6e8c44330f8194db63357d9929bd97338a0c36d15ab",
+      {
+        "criteria": {
+          "dynamics": {
+            "met": true,
+            "quote": "formulated as a mechanistic qualitative network in which nodes represent genes"
+          },
+          "evaluation": {
+            "met": true,
+            "quote": "validate the model using clinical data from PARTNER, a large, randomized controlled trial"
+          },
+          "medical": {
+            "met": true,
+            "quote": "identifies potential resistance mechanisms and proposes tailored treatment plans"
+          },
+          "rollout": {
+            "met": false,
+            "quote": ""
+          },
+          "state": {
+            "met": true,
+            "quote": "nodes represent genes and proteins and edges denote the interactions between them"
+          }
+        },
+        "decision": "related",
+        "evidence_level": "abstract",
+        "evidence_url": "https://europepmc.org/article/MED/42933397",
+        "limitations_zh": "仅依据所提供摘要，无法核验完整方法、代码与实验细节；摘要未报告学习或混合转移，也未明确候选治疗动作如何改变传播状态，因而操作性rollout证据不足。",
+        "metadata": {
+          "Capability": [
+            "Forecast",
+            "Simulate"
+          ],
+          "Dynamics": [
+            "Mechanistic"
+          ],
+          "State": [
+            "Patient"
+          ]
+        },
+        "model": "qoder-cn/dfmodel",
+        "provider": "qoder-cn",
+        "reason_zh": "该文提出TNBC机制性定性网络数字孪生，利用患者分子数据识别耐药机制并预测治疗反应，且在PARTNER试验数据中验证；但所提供摘要未显示学习或混合转移，也未显示候选动作改变传播状态的操作性rollout，故按机制性模拟器归为related。",
+        "reviewed_on": "2026-11-04",
+        "summary_zh": "提出三阴性乳腺癌数字孪生框架，以基因与蛋白互作构建机制性定性网络，结合患者分子数据识别耐药机制并给出个体化治疗建议，并用PARTNER随机对照试验的临床数据验证治疗反应预测。",
         "text_truncated": false,
         "topics": [
           "Computational Biology and Cellular Dynamics",
@@ -2975,6 +3871,41 @@
       "year": "2026"
     },
     {
+      "abstract_hash": "5be21c0ea5773b64f0365f3fe28a44a60e27229b24587a1276fbc63ff86de530",
+      "abstract_source": "europepmc",
+      "abstract_updated": "2026-10-30",
+      "arxiv_id": "",
+      "authors": [
+        "Zhang J",
+        "Zhang F",
+        "Guo Y",
+        "Zhang J",
+        "Zhong H",
+        "Guo X",
+        "Tan M"
+      ],
+      "doi": "10.2196/103362",
+      "first_seen": "2026-11-04",
+      "id": "p-0cddb9f876c8091ae26a",
+      "is_open_access": false,
+      "last_changed": "2026-11-04",
+      "pmcid": "",
+      "pmid": "42955065",
+      "published": "2026-10-29",
+      "seeded": false,
+      "source": "pubmed",
+      "source_id": "42955065",
+      "sources": [
+        "europepmc",
+        "pubmed"
+      ],
+      "title": "AI-Enabled Patient Profiling for Personalized Nursing Care and Health Support: Scoping Review.",
+      "updated": "2026-10-31",
+      "url": "https://europepmc.org/article/MED/42955065",
+      "version": "",
+      "year": "2026"
+    },
+    {
       "abstract_hash": "",
       "arxiv_id": "2608.18647",
       "doi": "",
@@ -2990,6 +3921,39 @@
       "title": "Progressive Experience Fusion for Multi-Task World Model Control in Endovascular Navigation",
       "updated": "",
       "url": "https://arxiv.org/abs/2608.18647",
+      "version": "",
+      "year": "2026"
+    },
+    {
+      "abstract_hash": "a042b9df33de460895d57bdf7c343b72529bd9483c3903878e730384e69ff6f9",
+      "abstract_source": "europepmc",
+      "abstract_updated": "2026-10-30",
+      "arxiv_id": "",
+      "authors": [
+        "Gawale K",
+        "Karawadiya A",
+        "Katawale S",
+        "Sawarkar S",
+        "Omri A"
+      ],
+      "doi": "10.1080/14787210.2026.2756297",
+      "first_seen": "2026-11-04",
+      "id": "p-0e0c66c6a10cc278606c",
+      "is_open_access": false,
+      "last_changed": "2026-11-04",
+      "pmcid": "",
+      "pmid": "42955867",
+      "published": "2026-10-29",
+      "seeded": false,
+      "source": "pubmed",
+      "source_id": "42955867",
+      "sources": [
+        "europepmc",
+        "pubmed"
+      ],
+      "title": "Engineering smart liposomes to combat antimicrobial resistance: from mechanistic design to clinical translation.",
+      "updated": "2026-10-30",
+      "url": "https://europepmc.org/article/MED/42955867",
       "version": "",
       "year": "2026"
     },
@@ -3117,6 +4081,36 @@
       "title": "DreamFold: A World Model to efficiently generate protein folding pathways in the latent space.",
       "updated": "2026-10-03",
       "url": "https://europepmc.org/article/MED/42813590",
+      "version": "",
+      "year": "2026"
+    },
+    {
+      "abstract_hash": "7a0ca04c0c8ecf65d41804a47344973cf0119accc5a5902445c1edfee86591b8",
+      "abstract_source": "europepmc",
+      "abstract_updated": "2026-10-30",
+      "arxiv_id": "",
+      "authors": [
+        "Nozari H",
+        "Yordanova Z"
+      ],
+      "doi": "10.1002/bit.70433",
+      "first_seen": "2026-11-04",
+      "id": "p-153a1ea8b8272b8f8db6",
+      "is_open_access": false,
+      "last_changed": "2026-11-04",
+      "pmcid": "",
+      "pmid": "42954038",
+      "published": "2026-10-29",
+      "seeded": false,
+      "source": "pubmed",
+      "source_id": "42954038",
+      "sources": [
+        "europepmc",
+        "pubmed"
+      ],
+      "title": "Agentic Artificial Intelligence-Driven Neutrosophic Multi-Objective Optimization of Oxygen Transfer Systems in Smart Bioreactors.",
+      "updated": "2026-10-30",
+      "url": "https://europepmc.org/article/MED/42954038",
       "version": "",
       "year": "2026"
     },
@@ -3265,6 +4259,36 @@
       "updated": "",
       "url": "https://arxiv.org/abs/2607.01952",
       "version": "",
+      "year": "2026"
+    },
+    {
+      "abstract_hash": "6aca5afef2e7a844e105aa04f913b21111423b4f5fd94ae0edaf005598b6873f",
+      "abstract_source": "arxiv",
+      "abstract_updated": "2026-10-29T22:32:25Z",
+      "arxiv_id": "2610.41042",
+      "authors": [
+        "Elnaz Irannezhad",
+        "Seyed Hossein Hosseini",
+        "David A. Hensher"
+      ],
+      "doi": "",
+      "first_seen": "2026-11-04",
+      "id": "p-235fc0824fcffae6053e",
+      "is_open_access": true,
+      "last_changed": "2026-11-04",
+      "pmcid": "",
+      "pmid": "",
+      "published": "2026-10-29",
+      "seeded": false,
+      "source": "arxiv",
+      "source_id": "2610.41042",
+      "sources": [
+        "arxiv"
+      ],
+      "title": "A System Dynamics Model for Zero-emission Heavy Vehicle Transition in Australia",
+      "updated": "2026-10-29T22:32:25Z",
+      "url": "https://arxiv.org/abs/2610.41042",
+      "version": "1",
       "year": "2026"
     },
     {
@@ -3699,7 +4723,7 @@
       "last_changed": "2026-11-04",
       "pmcid": "",
       "pmid": "42974717",
-      "published": "",
+      "published": "2026",
       "seeded": false,
       "source": "pubmed",
       "source_id": "42974717",
@@ -3710,7 +4734,7 @@
       "updated": "2026-11-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42974717/",
       "version": "",
-      "year": ""
+      "year": "2026"
     },
     {
       "abstract_hash": "",
@@ -4055,6 +5079,35 @@
       "year": "2025"
     },
     {
+      "abstract_hash": "17ce3cd46e1ea420b16073116f886e7a6d2f38d4e965789e6e1465a2d1d7aec2",
+      "abstract_source": "europepmc",
+      "abstract_updated": "2026-10-30",
+      "arxiv_id": "",
+      "authors": [
+        "Dąbrowicki W",
+        "Rusiecki A"
+      ],
+      "doi": "10.21203/rs.3.rs-11327969/v1",
+      "first_seen": "2026-11-04",
+      "id": "p-596c8bcb2d36089a881e",
+      "is_open_access": true,
+      "last_changed": "2026-11-04",
+      "pmcid": "",
+      "pmid": "",
+      "published": "2026-10-29",
+      "seeded": false,
+      "source": "europepmc",
+      "source_id": "PPR1353089",
+      "sources": [
+        "europepmc"
+      ],
+      "title": "Reinforcement Learning with World Models in the Era of Scale: From Online Imagination to World Action Models",
+      "updated": "2026-10-30",
+      "url": "https://europepmc.org/article/PPR/PPR1353089",
+      "version": "",
+      "year": "2026"
+    },
+    {
       "abstract_hash": "",
       "arxiv_id": "2605.01084",
       "doi": "10.1016/j.media.2026.104281",
@@ -4241,6 +5294,44 @@
       "title": "SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation",
       "updated": "",
       "url": "https://arxiv.org/abs/2603.13024",
+      "version": "",
+      "year": "2026"
+    },
+    {
+      "abstract_hash": "8eee568a43d1eaa587e7fc4683e138a92c433d109e08083728cd719d5be1f594",
+      "abstract_source": "europepmc",
+      "abstract_updated": "2026-11-01",
+      "arxiv_id": "",
+      "authors": [
+        "Darvishi V",
+        "Del Giovane M",
+        "David MCB",
+        "Dhillon BK",
+        "Kolanko MA",
+        "Gontsarova A",
+        "Malhotra PA",
+        "Carswell C",
+        "Sharp DJ",
+        "Ghajari M"
+      ],
+      "doi": "10.1002/smmd.70060",
+      "first_seen": "2026-11-04",
+      "id": "p-65cb7a314802a4716578",
+      "is_open_access": true,
+      "last_changed": "2026-11-04",
+      "pmcid": "PMC13720981",
+      "pmid": "42964987",
+      "published": "2026-10-30",
+      "seeded": false,
+      "source": "pubmed",
+      "source_id": "42964987",
+      "sources": [
+        "europepmc",
+        "pubmed"
+      ],
+      "title": "Patient-Informed Biomechanical Modeling Reveals Mechanical Mechanism of Brain Damage in Idiopathic Normal Pressure Hydrocephalus.",
+      "updated": "2026-11-02",
+      "url": "https://europepmc.org/article/MED/42964987",
       "version": "",
       "year": "2026"
     },
@@ -4460,7 +5551,7 @@
       "last_changed": "2026-11-04",
       "pmcid": "PMC13715081",
       "pmid": "42949247",
-      "published": "",
+      "published": "2026",
       "seeded": false,
       "source": "pubmed",
       "source_id": "42949247",
@@ -4471,7 +5562,7 @@
       "updated": "2026-10-30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42949247/",
       "version": "",
-      "year": ""
+      "year": "2026"
     },
     {
       "abstract_hash": "",
@@ -4876,6 +5967,37 @@
       "year": "2026"
     },
     {
+      "abstract_hash": "6de66c5f069a6ef155aca6268425af601a3ee28e956da48e33a4e503f070dbd9",
+      "abstract_source": "europepmc",
+      "abstract_updated": "2026-10-21",
+      "arxiv_id": "",
+      "authors": [
+        "Azimi MS",
+        "Cheraghi M",
+        "Zaidi H"
+      ],
+      "doi": "10.1088/1361-6560/aeb699",
+      "first_seen": "2026-11-04",
+      "id": "p-8a815572639b6c939714",
+      "is_open_access": false,
+      "last_changed": "2026-11-04",
+      "pmcid": "",
+      "pmid": "42899676",
+      "published": "2026-10-30",
+      "seeded": false,
+      "source": "pubmed",
+      "source_id": "42899676",
+      "sources": [
+        "europepmc",
+        "pubmed"
+      ],
+      "title": "Nonlinear stability phenotypes and collapse dynamics of multi-organ radiomics in total-body PET imaging: toward digital twin-oriented robustness assessment.",
+      "updated": "2026-10-30",
+      "url": "https://europepmc.org/article/MED/42899676",
+      "version": "",
+      "year": "2026"
+    },
+    {
       "abstract_hash": "",
       "arxiv_id": "",
       "doi": "",
@@ -5028,6 +6150,42 @@
       "year": "2026"
     },
     {
+      "abstract_hash": "9c55658409c6b00ff3d471dbb325ea4ae8f19b839dde22dbdb1c875794577fcb",
+      "abstract_source": "pubmed",
+      "abstract_updated": "2026-10-29",
+      "arxiv_id": "",
+      "authors": [
+        "Arun V Kolanjiyil",
+        "Rabijit Dutta",
+        "Anya Maradiaga",
+        "Casey Grey",
+        "Ghali Aladwani",
+        "Caleb Dalton",
+        "Mohammad A M Momin",
+        "Michael Hindle",
+        "P Worth Longest"
+      ],
+      "doi": "10.1016/j.ijpharm.2026.127605",
+      "first_seen": "2026-11-04",
+      "id": "p-973dc71a0df3e21f6364",
+      "is_open_access": false,
+      "last_changed": "2026-11-04",
+      "pmcid": "",
+      "pmid": "42957071",
+      "published": "2026-10-29",
+      "seeded": false,
+      "source": "pubmed",
+      "source_id": "42957071",
+      "sources": [
+        "pubmed"
+      ],
+      "title": "Validating complete-airway computational fluid dynamics (CA-CFD) predictions of regional aerosol deposition in human subjects: comparisons with in vivo data of pharmaceutical aerosol delivery during HFNC therapy.",
+      "updated": "2026-10-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957071/",
+      "version": "",
+      "year": "2026"
+    },
+    {
       "abstract_hash": "",
       "arxiv_id": "",
       "doi": "10.1016/j.cell.2026.04.022",
@@ -5121,6 +6279,58 @@
       "url": "https://arxiv.org/abs/2405.17940",
       "version": "",
       "year": "2024"
+    },
+    {
+      "abstract_hash": "05910794261761c504d35bba5ada6f061b1ffef2f18a1086830004e414d603ce",
+      "abstract_source": "europepmc",
+      "abstract_updated": "2026-10-29",
+      "arxiv_id": "",
+      "authors": [
+        "Oliveira M",
+        "Aguayo G",
+        "Canha D",
+        "Benhamou PY",
+        "Briet C",
+        "Imberti CC",
+        "Disse E",
+        "Hadjadj S",
+        "Hanaire H",
+        "Jeandidier N",
+        "Joubert M",
+        "Page ML",
+        "Lucidarme N",
+        "Naccache A",
+        "Potier L",
+        "Renard E",
+        "Saade MB",
+        "Schaepelynck P",
+        "Sola A",
+        "Verges B",
+        "Riveline JP",
+        "Cosson E",
+        "Fagherazzi G",
+        "SFDT1 study group"
+      ],
+      "doi": "10.1016/j.diabet.2026.101801",
+      "first_seen": "2026-11-04",
+      "id": "p-a001c5dc2b739a2c7444",
+      "is_open_access": false,
+      "last_changed": "2026-11-04",
+      "pmcid": "",
+      "pmid": "42951245",
+      "published": "2026-10-28",
+      "seeded": false,
+      "source": "pubmed",
+      "source_id": "42951245",
+      "sources": [
+        "europepmc",
+        "pubmed"
+      ],
+      "title": "Towards a digital twin for precision diabetes care: a phenotypic mapping and virtual representation of a person living with type 1 diabetes in the SFDT1 study.",
+      "updated": "2026-11-02",
+      "url": "https://europepmc.org/article/MED/42951245",
+      "version": "",
+      "year": "2026"
     },
     {
       "abstract_hash": "",
@@ -5397,6 +6607,37 @@
       "year": "2026"
     },
     {
+      "abstract_hash": "52a56aa0e83ab18c140bea97b9d7d015960acefd5d4f56436ca38584e0b9d3e9",
+      "abstract_source": "europepmc",
+      "abstract_updated": "2026-11-03",
+      "arxiv_id": "",
+      "authors": [
+        "Han X",
+        "Li J",
+        "Ampofo J"
+      ],
+      "doi": "10.1016/j.ijmedinf.2026.106783",
+      "first_seen": "2026-11-04",
+      "id": "p-b8bf089de352430e5422",
+      "is_open_access": false,
+      "last_changed": "2026-11-04",
+      "pmcid": "",
+      "pmid": "42967410",
+      "published": "2026-10-30",
+      "seeded": false,
+      "source": "pubmed",
+      "source_id": "42967410",
+      "sources": [
+        "europepmc",
+        "pubmed"
+      ],
+      "title": "Physician digital health literacy and generative AI for public health communication: a five-country comparative case study with a MedVid-informed digital twin model for Shanghai.",
+      "updated": "2026-11-03",
+      "url": "https://europepmc.org/article/MED/42967410",
+      "version": "",
+      "year": "2026"
+    },
+    {
       "abstract_hash": "",
       "arxiv_id": "2607.06385",
       "doi": "",
@@ -5432,6 +6673,36 @@
       "updated": "",
       "url": "https://arxiv.org/abs/2607.13877",
       "version": "",
+      "year": "2026"
+    },
+    {
+      "abstract_hash": "460103f9ed8369a37c4d6229bb1437fe148f9feb0c2bcd0046912d6bc654d158",
+      "abstract_source": "arxiv",
+      "abstract_updated": "2026-10-29T20:24:44Z",
+      "arxiv_id": "2610.40947",
+      "authors": [
+        "Zeping Zhang",
+        "Zhuoya Zhao",
+        "Robert Laganière"
+      ],
+      "doi": "",
+      "first_seen": "2026-11-04",
+      "id": "p-beea5e8ed66ddb0134a0",
+      "is_open_access": true,
+      "last_changed": "2026-11-04",
+      "pmcid": "",
+      "pmid": "",
+      "published": "2026-10-29",
+      "seeded": false,
+      "source": "arxiv",
+      "source_id": "2610.40947",
+      "sources": [
+        "arxiv"
+      ],
+      "title": "UFMF: Radar-Guided Kinematic Priors for Real-Time 4D Occupancy Forecasting",
+      "updated": "2026-10-29T20:24:44Z",
+      "url": "https://arxiv.org/abs/2610.40947",
+      "version": "1",
       "year": "2026"
     },
     {
@@ -5991,6 +7262,50 @@
       "year": "2026"
     },
     {
+      "abstract_hash": "faeef4be63b01248e583d627829c6a28ade43c33cb4cffe20b83a52713023a9b",
+      "abstract_source": "arxiv",
+      "abstract_updated": "2026-10-28T05:14:51Z",
+      "arxiv_id": "2610.38289",
+      "authors": [
+        "Cheng Tang",
+        "Xinyu Zhang",
+        "Jiawei Chen",
+        "Minghui Zhang",
+        "Shaocong Wei",
+        "Wei Li",
+        "Yuxing Chen",
+        "Kongcheng Zhang",
+        "Chun-Mei Feng",
+        "Nanqing Dong",
+        "Xinyuan Zhu",
+        "Ziyan Huang",
+        "Junjun He",
+        "Yirong Chen",
+        "Lingtong Huang",
+        "Min Cen",
+        "Ming Hu"
+      ],
+      "doi": "",
+      "first_seen": "2026-11-04",
+      "id": "p-e5e36b2f7b895e6e3a45",
+      "is_open_access": true,
+      "last_changed": "2026-11-04",
+      "pmcid": "",
+      "pmid": "",
+      "published": "2026-10-28",
+      "seeded": false,
+      "source": "arxiv",
+      "source_id": "2610.38289",
+      "sources": [
+        "arxiv"
+      ],
+      "title": "PulmoWorld: An Asynchronous Multimodal Medical World Model for Longitudinal Pneumonia Dynamics",
+      "updated": "2026-10-28T05:14:51Z",
+      "url": "https://arxiv.org/abs/2610.38289",
+      "version": "1",
+      "year": "2026"
+    },
+    {
       "abstract_hash": "",
       "arxiv_id": "2607.15492",
       "doi": "",
@@ -6101,6 +7416,40 @@
       "title": "High-Fidelity Postmyocardial Infarction Ventricular Tachycardia Simulation for Intraprocedure Ablation Guidance",
       "updated": "",
       "url": "https://doi.org/10.1016/j.hrthm.2026.03.1962",
+      "version": "",
+      "year": "2026"
+    },
+    {
+      "abstract_hash": "c8ac88a1adba8d45188f289b4e4ae7fbb582362cac58b04c6bfcf0181dd2506c",
+      "abstract_source": "europepmc",
+      "abstract_updated": "2026-10-29",
+      "arxiv_id": "",
+      "authors": [
+        "Mueller AA",
+        "Solenthaler B",
+        "Schnabel TN",
+        "Lill Y",
+        "Nalabothu P",
+        "Benitez BK"
+      ],
+      "doi": "10.1016/j.coms.2026.09.007",
+      "first_seen": "2026-11-04",
+      "id": "p-edc619ca8269ca7f45c1",
+      "is_open_access": false,
+      "last_changed": "2026-11-04",
+      "pmcid": "",
+      "pmid": "42951803",
+      "published": "2026-10-28",
+      "seeded": false,
+      "source": "pubmed",
+      "source_id": "42951803",
+      "sources": [
+        "europepmc",
+        "pubmed"
+      ],
+      "title": "Artificial Intelligence in Cleft and Craniofacial Care.",
+      "updated": "2026-10-29",
+      "url": "https://europepmc.org/article/MED/42951803",
       "version": "",
       "year": "2026"
     },
@@ -6227,6 +7576,52 @@
       "title": "An Eikonal Model with Re-Excitability for Fast Simulations in Cardiac Electrophysiology",
       "updated": "",
       "url": "https://doi.org/10.1113/JP287281",
+      "version": "",
+      "year": "2026"
+    },
+    {
+      "abstract_hash": "c11be9e331f799164d03528fc5669cf6e539ede8dbd6fbf2a23d38fa0cf20f86",
+      "abstract_source": "europepmc",
+      "abstract_updated": "2026-10-27",
+      "arxiv_id": "",
+      "authors": [
+        "Victori P",
+        "Hua K",
+        "Twigger AJ",
+        "Anand A",
+        "Bose ZM",
+        "Clarke MA",
+        "Bell S",
+        "Xian KJQ",
+        "Zakarneh L",
+        "Pinilla K",
+        "Lee CYC",
+        "Clatworthy MR",
+        "Khaled WT",
+        "Abraham JE",
+        "PARTNER Trial Group",
+        "Personalised Breast Cancer Program Group",
+        "Hannon GJ",
+        "Fisher J"
+      ],
+      "doi": "10.1016/j.xcrm.2026.103119",
+      "first_seen": "2026-11-04",
+      "id": "p-f876fb8d6d6b703c1671",
+      "is_open_access": false,
+      "last_changed": "2026-11-04",
+      "pmcid": "",
+      "pmid": "42933397",
+      "published": "2026-10-28",
+      "seeded": false,
+      "source": "pubmed",
+      "source_id": "42933397",
+      "sources": [
+        "europepmc",
+        "pubmed"
+      ],
+      "title": "Tumor digital twins uncover therapeutic strategies in triple-negative breast cancer.",
+      "updated": "2026-10-27",
+      "url": "https://europepmc.org/article/MED/42933397",
       "version": "",
       "year": "2026"
     },

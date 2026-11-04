@@ -2,20 +2,34 @@
 
 机器整理的候选与收录建议；未代表人工审核或实验复现。
 
-候选库：24 篇；当日发现、更新或完成分析：24 篇。
+候选库：38 篇；当日发现、更新或完成分析：38 篇。
 
-已有有效中文分析：24 篇；待分析或缺少摘要证据：0 篇。
+已有有效中文分析：38 篇；待分析或缺少摘要证据：0 篇。
 
 ## 检索覆盖
 
-- arxiv / 查询 0b853c5d2ddf：3 条；完整
-- arxiv / 查询 974e2bc9882c：0 条；完整
-- europepmc / 查询 f74b0612eaf2：2 条；完整
+- arxiv / 查询 0b853c5d2ddf：5 条；完整
+- arxiv / 查询 974e2bc9882c：1 条；完整
+- europepmc / 查询 f74b0612eaf2：12 条；完整
 - europepmc / 查询 f11522d6c8db：3 条；完整
-- pubmed / 查询 e190f0b25756：17 条；完整
+- pubmed / 查询 e190f0b25756：27 条；完整
 - pubmed / 查询 1a5e763292f9：2 条；完整
 
 ## 当日候选
+
+### [Engineering smart liposomes to combat antimicrobial resistance: from mechanistic design to clinical translation.](https://europepmc.org/article/MED/42955867)
+
+- 标识：`p-0e0c66c6a10cc278606c`；发表：2026-10-29；发现：2026-11-04
+- 主题：Treatment Planning and Clinical Decision Support
+- 状态：相关综述／资源
+
+该文综述智能脂质体用于抗耐药菌感染的理性设计、刺激响应与可编程系统、PK/PD改善及临床转化障碍，并讨论AI配方优化、微流控制造和数字孪生等决策支持方向。
+
+限制：仅提供摘要；无法核验全文方法、代码或实验细节。文章为综述，未报告可评估的世界模型、状态转移或操作性前瞻预测。
+
+判断：综述性文章，聚焦脂质体药物递送与抗感染治疗转化，非世界模型方法；摘要未报告状态表示、学习/混合动力学、操作性预测或已实现评估，故列为 related。
+
+证据层级：abstract；[来源](https://europepmc.org/article/MED/42955867)；模型：qoder-cn/dfmodel。
 
 ### [DreamFold: A World Model to efficiently generate protein folding pathways in the latent space.](https://europepmc.org/article/MED/42813590)
 
@@ -30,6 +44,20 @@ DreamFold在潜空间构建蛋白质折叠世界模型：用VAE编码蛋白构�
 判断：论文提出面向蛋白质折叠的生成式世界模型：状态为蛋白构象，动作为二面角扰动，学习潜空间动作条件转移并由控制器迭代rollout，且与长时MD和实验数据做路径相似性评估，符合纳入标准。
 
 证据层级：full_text；[来源](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13625212/fullTextXML)；模型：qoder-cn/dfmodel。
+
+### [Agentic Artificial Intelligence-Driven Neutrosophic Multi-Objective Optimization of Oxygen Transfer Systems in Smart Bioreactors.](https://europepmc.org/article/MED/42954038)
+
+- 标识：`p-153a1ea8b8272b8f8db6`；发表：2026-10-29；发现：2026-11-04
+- 主题：Computational Biology and Cellular Dynamics
+- 状态：待核验
+
+面向智能生物反应器氧转移提出闭环框架，融合同步数字孪生、智能体AI、模糊中性学建模与多目标决策；持续重构过程状态、预测短期行为并虚拟筛选控制方案，摘要报告溶解氧稳定性98.04%、氧需求冲击后恢复7.26分钟。
+
+限制：仅提供摘要；未报告医学或临床任务，学习与混合转移的实现细节、代码与外部验证无法核验；生物反应器场景的医学相关性无法核实。
+
+判断：摘要显示该工作为生物反应器氧转移的闭环数字孪生与AI控制框架，含状态重构、短期预测与控制方案虚拟评估，但所提供文本未体现医学任务，且学习/混合转移与代码均无法核验，故暂缓而非纳入。
+
+证据层级：abstract；[来源](https://europepmc.org/article/MED/42954038)；模型：qoder-cn/dfmodel。
 
 ### [Nano-Bioadhesives for Gastrointestinal Hemostasis and Healing: Integrating Artificial Intelligence for Precision Design and Application.](https://pubmed.ncbi.nlm.nih.gov/42975278/)
 
@@ -89,7 +117,7 @@ DreamFold在潜空间构建蛋白质折叠世界模型：用VAE编码蛋白构�
 
 ### [Computational Models of the Foreign Body Response: A Focus on Biomaterial Properties.](https://pubmed.ncbi.nlm.nih.gov/42974717/)
 
-- 标识：`p-3d64048702f422c07394`；发表：未知；发现：2026-11-04
+- 标识：`p-3d64048702f422c07394`；发表：2026；发现：2026-11-04
 - 主题：Computational Biology and Cellular Dynamics
 - 状态：相关综述／资源
 
@@ -100,6 +128,20 @@ DreamFold在潜空间构建蛋白质折叠世界模型：用VAE编码蛋白构�
 判断：摘要表明本文为异物反应计算模型的综述，汇总机制性与数据驱动方法，属相关背景文献而非原始预测系统；所提供摘要未报告状态滚动推演或已实现的评估，依据规则综述不能建议纳入。
 
 证据层级：abstract；[来源](https://pubmed.ncbi.nlm.nih.gov/42974717/)；模型：qoder-cn/dfmodel。
+
+### [Reinforcement Learning with World Models in the Era of Scale: From Online Imagination to World Action Models](https://europepmc.org/article/PPR/PPR1353089)
+
+- 标识：`p-596c8bcb2d36089a881e`；发表：2026-10-29；发现：2026-11-04
+- 主题：Computational Biology and Cellular Dynamics
+- 状态：相关综述／资源
+
+这是一篇WM-RL综述（2019–2026），梳理从在线基于模型强化学习到“预训练+想象式策略训练”、从解耦世界模型与策略到统一World Action Models、再到物理AI基础设施的三次范式转移，并列举PlaNet、RSSM、Dreamer、Transformer世界模型、扩散动力学与JEPA等架构，覆盖机器人、自动驾驶、LLM智能体、医疗与游戏等领域。
+
+限制：仅有摘要：所提供摘要未报告任何具体生物医学任务、患者/细胞/分子状态变量、转移模型实现或量化评估，也未给出代码链接。无法核验其医疗与分子动力学部分是否包含可操作的动态建模与预测实验；且摘要明确为综述，不能作为原创方法纳入。
+
+判断：摘要显示该文为综述性回顾，仅泛泛提及“medical therapy and molecular dynamics”“healthcare”等应用领域，未提出具体医学任务、状态表示、可学习/混合转移与实施评估；按规则摘要级综述归为related而非suggest_include，也非exclude（因不能断定全文无医学内容）。
+
+证据层级：abstract；[来源](https://europepmc.org/article/PPR/PPR1353089)；模型：qoder-cn/dfmodel。
 
 ### [Pulse Physiology Engine to simulate transient oxygen changes and closed-loop, autonomous pump control during venovenous extracorporeal membrane oxygenation](https://europepmc.org/article/PPR/PPR1356081)
 
@@ -145,7 +187,7 @@ DreamFold在潜空间构建蛋白质折叠世界模型：用VAE编码蛋白构�
 
 ### [Digital Twins in Clinical Neurology: From Concept to Clinical Application in Multiple Sclerosis.](https://pubmed.ncbi.nlm.nih.gov/42949247/)
 
-- 标识：`p-6f597cce41d570496499`；发表：未知；发现：2026-11-04
+- 标识：`p-6f597cce41d570496499`；发表：2026；发现：2026-11-04
 - 主题：Longitudinal EHR and Clinical Trajectories、Treatment Planning and Clinical Decision Support
 - 状态：相关综述／资源
 
@@ -185,6 +227,48 @@ DreamFold在潜空间构建蛋白质折叠世界模型：用VAE编码蛋白构�
 
 证据层级：abstract；[来源](https://europepmc.org/article/PPR/PPR1355727)；模型：qoder-cn/dfmodel。
 
+### [Nonlinear stability phenotypes and collapse dynamics of multi-organ radiomics in total-body PET imaging: toward digital twin-oriented robustness assessment.](https://europepmc.org/article/MED/42899676)
+
+- 标识：`p-8a815572639b6c939714`；发表：2026-10-30；发现：2026-11-04
+- 主题：Medical Imaging and Radiology
+- 状态：相关综述／资源
+
+该研究分析550例全身PET在多剂量缩减下的107个多器官影像组学特征，拟合非线性稳定性表型与崩溃轨迹，识别器官特异性阈值，面向数字孪生稳健性评估。
+
+限制：仅提供摘要，所提供摘要未报告动作条件状态转移动力学或操作级预测/rollout；无法核验完整方法、代码与实验，结论限于影像组学稳健性分析。
+
+判断：摘要显示医学影像任务与器官特征状态，并拟合非线性剂量响应轨迹和稳定性评估，但无候选动作改变传播状态的预测/rollout证据，故仅为相关。
+
+证据层级：abstract；[来源](https://europepmc.org/article/MED/42899676)；模型：qoder-cn/dfmodel。
+
+### [Validating complete-airway computational fluid dynamics (CA-CFD) predictions of regional aerosol deposition in human subjects: comparisons with in vivo data of pharmaceutical aerosol delivery during HFNC therapy.](https://pubmed.ncbi.nlm.nih.gov/42957071/)
+
+- 标识：`p-973dc71a0df3e21f6364`；发表：2026-10-29；发现：2026-11-04
+- 主题：Treatment Planning and Clinical Decision Support
+- 状态：相关综述／资源
+
+开发并验证完整气道CFD模型，预测HFNC期间药物气溶胶的区域沉积，并与人体γ闪烁及SPECT-CT队列数据比较，肺沉积预测约2.9%。
+
+限制：仅提供摘要，无法核验完整方法、代码或更多实验；模型属CFD机制模拟，未见学习/混合状态转移或时序rollout。
+
+判断：该工作建立并验证完整气道CFD气溶胶沉积模型，属机制仿真；缺乏学习/混合转移及可操作时序预测证据，故按相关文献处理。
+
+证据层级：abstract；[来源](https://pubmed.ncbi.nlm.nih.gov/42957071/)；模型：qoder-cn/dfmodel。
+
+### [UFMF: Radar-Guided Kinematic Priors for Real-Time 4D Occupancy Forecasting](https://arxiv.org/abs/2610.40947)
+
+- 标识：`p-beea5e8ed66ddb0134a0`；发表：2026-10-29；发现：2026-11-04
+- 主题：待分类
+- 状态：机器建议排除，待抽查
+
+UFMF是面向自动驾驶的实时4D占用预测世界模型：以雷达引导速度感知动态先验，结合世界坐标轨迹监督与类别高度监督，在nuScenes上以122 FPS预测未来BEV/体素占用。
+
+限制：全文为自动驾驶占用预测研究，任务、状态与数据均来自nuScenes道路场景；未报告生物医学任务、患者/生理状态或临床验证，不能作为医学世界模型证据。
+
+判断：论文解决自动驾驶中快速运动目标的BEV/3D占用预测，具备学习动态、滚动预测和实现评测，但缺少任何生物医学任务或医学状态，故不属于本综述范围。
+
+证据层级：full_text；[来源](https://arxiv.org/html/2610.40947v1)；模型：qoder-cn/dfmodel。
+
 ### [A digital twin roadmap for adult spinal deformity.](https://pubmed.ncbi.nlm.nih.gov/42975781/)
 
 - 标识：`p-c871f470abda8f63a3f7`；发表：2026-11-03；发现：2026-11-04
@@ -199,6 +283,20 @@ DreamFold在潜空间构建蛋白质折叠世界模型：用VAE编码蛋白构�
 
 证据层级：abstract；[来源](https://pubmed.ncbi.nlm.nih.gov/42975781/)；模型：qoder-cn/dfmodel。
 
+### [PulmoWorld: An Asynchronous Multimodal Medical World Model for Longitudinal Pneumonia Dynamics](https://arxiv.org/abs/2610.38289)
+
+- 标识：`p-e5e36b2f7b895e6e3a45`；发表：2026-10-28；发现：2026-11-04
+- 主题：Medical Imaging and Radiology、Longitudinal EHR and Clinical Trajectories、Treatment Planning and Clinical Decision Support
+- 状态：建议纳入，待审核
+
+提出PulmoWorld，一个面向肺炎纵向动态的异步多模态医学世界模型：以患者信念融合临床、CT/CXR与BALF等不完整观测，学习状态传播与观测校正，递归预测未来临床值和模态表征，并在授权动作集内用Cap-MBRL进行风险约束规划。在MASS、MIMIC-IV-CXR及MASS-Syn上报告预测、预后与规划评估。
+
+限制：规划仅在MASS-Syn已知机制模拟中验证；真实队列的动作条件主要是预测性，未证明干预效果或临床获益；MASS为私有队列，外部复现受限；影像输出为表征预测而非像素生成。
+
+判断：论文满足纳入标准：肺炎医疗任务、患者潜在状态、学习的异步状态转移与动作条件动力学、H1–H4递归rollout，以及MASS/MIMIC和MASS-Syn上的实现评估。
+
+证据层级：full_text；[来源](https://arxiv.org/html/2610.38289v1)；模型：qoder-cn/dfmodel。
+
 ### [Reimagining antimicrobial resistance: AI-driven predictive epidemiology and the C-AMRE framework for next-generation antibiotic discovery.](https://pubmed.ncbi.nlm.nih.gov/42562952/)
 
 - 标识：`p-f07bebc7334c95ac54d8`；发表：2026-08-06；发现：2026-11-04
@@ -212,6 +310,34 @@ DreamFold在潜空间构建蛋白质折叠世界模型：用VAE编码蛋白构�
 判断：文章自述为综述，围绕耐药进化轨迹预测与患者感染动力学数字孪生提出多尺度计算框架，属生物医学动态建模相关文献；但摘要级综述不能suggest_include，且所提供摘要缺乏已实现评估与动作条件化推演证据，故定为related。
 
 证据层级：abstract；[来源](https://pubmed.ncbi.nlm.nih.gov/42562952/)；模型：qoder-cn/dfmodel。
+
+### [Tumor digital twins uncover therapeutic strategies in triple-negative breast cancer.](https://europepmc.org/article/MED/42933397)
+
+- 标识：`p-f876fb8d6d6b703c1671`；发表：2026-10-28；发现：2026-11-04
+- 主题：Computational Biology and Cellular Dynamics、Treatment Planning and Clinical Decision Support
+- 状态：相关综述／资源
+
+提出三阴性乳腺癌数字孪生框架，以基因与蛋白互作构建机制性定性网络，结合患者分子数据识别耐药机制并给出个体化治疗建议，并用PARTNER随机对照试验的临床数据验证治疗反应预测。
+
+限制：仅依据所提供摘要，无法核验完整方法、代码与实验细节；摘要未报告学习或混合转移，也未明确候选治疗动作如何改变传播状态，因而操作性rollout证据不足。
+
+判断：该文提出TNBC机制性定性网络数字孪生，利用患者分子数据识别耐药机制并预测治疗反应，且在PARTNER试验数据中验证；但所提供摘要未显示学习或混合转移，也未显示候选动作改变传播状态的操作性rollout，故按机制性模拟器归为related。
+
+证据层级：abstract；[来源](https://europepmc.org/article/MED/42933397)；模型：qoder-cn/dfmodel。
+
+### [AI-Enabled Patient Profiling for Personalized Nursing Care and Health Support: Scoping Review.](https://europepmc.org/article/MED/42955065)
+
+- 标识：`p-0cddb9f876c8091ae26a`；发表：2026-10-29；发现：2026-11-04
+- 主题：Longitudinal EHR and Clinical Trajectories、Treatment Planning and Clinical Decision Support
+- 状态：相关综述／资源
+
+这是一篇范围综述（摘要层面），梳理61项研究，考察AI驱动的患者画像（患者档案、数字表型、临床亚型、数字孪生、LLM个性化）如何用于个性化护理与健康支持；指出多数研究仅评估算法性能、可行性与可用性，画像有效性、可执行性与真实世界实施证据不足。
+
+限制：所提供摘要仅呈现综述层面的归纳，无法核验纳入研究的状态转移定义、实现细节或代码链接；摘要未报告任何单一系统的前瞻性 rollout 评估，也无法核验临床获益。
+
+判断：该文为摘要层面的范围综述，属综述类文献，按规则不能 suggest_include；但其主题为AI患者画像支撑个性化护理与决策支持，与患者状态建模相关，故列为 related。摘要未报告可核验的学习/混合状态转移与操作性 rollout 评估，相关准则不满足。
+
+证据层级：abstract；[来源](https://europepmc.org/article/MED/42955065)；模型：qoder-cn/dfmodel。
 
 ### [Artificial intelligence in pediatric nephrology: current applications and emerging frameworks for evidence generation.](https://pubmed.ncbi.nlm.nih.gov/41739204/)
 
@@ -255,6 +381,20 @@ DreamFold在潜空间构建蛋白质折叠世界模型：用VAE编码蛋白构�
 
 证据层级：full_text；[来源](https://arxiv.org/html/2611.01666v1)；模型：qoder-cn/dfmodel。
 
+### [Patient-Informed Biomechanical Modeling Reveals Mechanical Mechanism of Brain Damage in Idiopathic Normal Pressure Hydrocephalus.](https://europepmc.org/article/MED/42964987)
+
+- 标识：`p-65cb7a314802a4716578`；发表：2026-10-30；发现：2026-11-04
+- 主题：Medical Imaging and Radiology、Computational Biology and Cellular Dynamics
+- 状态：相关综述／资源
+
+构建iNPH患者信息化的三维有限元脑模型，用MRI注册得到心室衬里位移场驱动心室扩张，预测Evans指数、z-Evans指数、胼胝体角及白质束应变，并与患者影像指标比较。
+
+限制：全文为机制性有限元建模，未报告学习型或混合状态转移；应变预测基于组平均模板，无法个体化，也未见临床结局相关性；代码需向通讯作者索取。
+
+判断：研究实现医学影像任务、脑解剖状态、心室扩张rollout及与患者指标比较的评估；但核心为机制性有限元模拟，缺少学习或混合状态转移，按规则归为related而非suggest_include。
+
+证据层级：full_text；[来源](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13720981/fullTextXML)；模型：qoder-cn/dfmodel。
+
 ### [Advancing process control toward intelligent continuous biopharmaceutical manufacturing: Challenges, strategies, and future directions.](https://pubmed.ncbi.nlm.nih.gov/42472568/)
 
 - 标识：`p-6d54950836d3f8e83dc0`；发表：2026-07-19；发现：2026-11-04
@@ -268,6 +408,20 @@ DreamFold在潜空间构建蛋白质折叠世界模型：用VAE编码蛋白构�
 判断：摘要表明其为连续生物制药过程控制综述，涉及模型预测控制、强化学习与数字孪生，但未见医疗任务、候选动作改变传播状态的证据或已实施评估；按规则综述归为相关而非建议纳入。
 
 证据层级：abstract；[来源](https://pubmed.ncbi.nlm.nih.gov/42472568/)；模型：qoder-cn/dfmodel。
+
+### [Towards a digital twin for precision diabetes care: a phenotypic mapping and virtual representation of a person living with type 1 diabetes in the SFDT1 study.](https://europepmc.org/article/MED/42951245)
+
+- 标识：`p-a001c5dc2b739a2c7444`；发表：2026-10-28；发现：2026-11-04
+- 主题：Treatment Planning and Clinical Decision Support
+- 状态：相关综述／资源
+
+该研究基于SFDT1队列2,187例成人1型糖尿病数据，用DDRTree构建七类可解释亚型的表型图谱，并在235例未见数据中评估结构可重复性和个体投影，提供多语言应用及Steno风险评分，定位为精准糖尿病数字孪生基础。
+
+限制：所提供仅为摘要；未报告状态转移、动作条件动态或随时间rollout，未验证候选干预对轨迹的影响；所提供摘要未报告代码或完整方法。
+
+判断：摘要显示该工作为静态表型映射、个体投影与风险评分，缺乏学习/混合状态转移及操作化rollout证据，不符合世界模型纳入标准；但属于生物医学数字孪生与精准糖尿病决策支持的相关基础工作。
+
+证据层级：abstract；[来源](https://europepmc.org/article/MED/42951245)；模型：qoder-cn/dfmodel。
 
 ### [A proposed organization of multifaceted knowledge in data repositories: structuring record collections and evidence sets for data lakehouses and moonshots.](https://pubmed.ncbi.nlm.nih.gov/42608552/)
 
@@ -297,6 +451,20 @@ biv-me 是开源端到端流程，可从电影心血管磁共振 DICOM 自动生
 
 证据层级：abstract；[来源](https://pubmed.ncbi.nlm.nih.gov/42579973/)；模型：qoder-cn/dfmodel。
 
+### [Physician digital health literacy and generative AI for public health communication: a five-country comparative case study with a MedVid-informed digital twin model for Shanghai.](https://europepmc.org/article/MED/42967410)
+
+- 标识：`p-b8bf089de352430e5422`；发表：2026-10-30；发现：2026-11-04
+- 主题：待分类
+- 状态：相关综述／资源
+
+该文比较五国医生数字健康素养与生成式AI用于公共卫生传播，并借鉴新加坡MedVid提出面向上海的受信医生数字孪生设想；属政策与传播案例研究，未构建或评估生理/临床状态世界模型。
+
+限制：仅有摘要；所提供摘要未报告状态变量、转移动力学、前瞻滚动预测或实现评估，也未提供代码或因果临床获益证据。
+
+判断：摘要显示为跨国比较案例与数字孪生治理设想，核心是医生传播能力与AI采用，而非医学状态建模；缺少系统状态、学习/混合转移、运行性预测及实现评估，故仅列相关。
+
+证据层级：abstract；[来源](https://europepmc.org/article/MED/42967410)；模型：qoder-cn/dfmodel。
+
 ### [Implementation Science Driven Identification of Barriers to AI Diagnostic Decision Support: A Stakeholder-Informed Concept Mapping Study](https://arxiv.org/abs/2611.02554)
 
 - 标识：`p-cdc8043e2de8b38f5ab3`；发表：2026-11-02；发现：2026-11-04
@@ -313,6 +481,20 @@ biv-me 是开源端到端流程，可从电影心血管磁共振 DICOM 自动生
 
 Full-text access failed (HTTPError); abstract retained.
 
+### [Artificial Intelligence in Cleft and Craniofacial Care.](https://europepmc.org/article/MED/42951803)
+
+- 标识：`p-edc619ca8269ca7f45c1`；发表：2026-10-28；发现：2026-11-04
+- 主题：Medical Imaging and Radiology、Treatment Planning and Clinical Decision Support、Surgical Simulation and Embodied Healthcare
+- 状态：相关综述／资源
+
+该文综述人工智能在唇腭裂与颅面外科护理中的应用，涵盖三维影像、机器学习、自动化工作流、手术器械自动化设计及数字孪生概念，旨在提升诊疗精准度、效率与可及性。
+
+限制：仅有摘要，无法核验具体方法、数据、实验与代码；所提供摘要未报告任何可学习状态转移模型或前瞻性滚动预测的实现与评估。
+
+判断：摘要级综述，主题属颅面与唇腭裂诊疗及手术规划，与医学世界模型相关；但所提供文本只涉及影像分析、自动化工作流与数字孪生设想，未见系统状态、学习或混合转移、动作条件化滚动预测及已实现评估，故判为 related。
+
+证据层级：abstract；[来源](https://europepmc.org/article/MED/42951803)；模型：qoder-cn/dfmodel。
+
 ### [Prediction of Plasma Concentration-Time Profiles in Mice from Chemical Structure Using a Kinetically Constrained Hybrid Neural ODE.](https://europepmc.org/article/MED/42969730)
 
 - 标识：`p-079ddee0912cb0cecfb8`；发表：2026-11-01；发现：2026-11-04
@@ -326,6 +508,22 @@ Full-text access failed (HTTPError); abstract retained.
 判断：摘要显示药代动力学轨迹预测任务、二室状态、混合Neural ODE动力学与交叉验证/时间外推RMSE，方向契合；但证据仅为摘要，未能核验全文中的方法与实验细节，故按证据不足暂缓而非纳入。
 
 证据层级：abstract；[来源](https://europepmc.org/article/MED/42969730)；模型：qoder-cn/dfmodel。
+
+### [A System Dynamics Model for Zero-emission Heavy Vehicle Transition in Australia](https://arxiv.org/abs/2610.41042)
+
+- 标识：`p-235fc0824fcffae6053e`；发表：2026-10-29；发现：2026-11-04
+- 主题：待分类
+- 状态：机器建议排除，待抽查
+
+该研究构建澳大利亚刚性货车与铰接货车车队的系统动力学模型，模拟至2050年零排放重卡的渗透路径，比较柴油税、道路使用费、碳价、购置补贴与运营成本支持等政策工具的效果，结论是单一工具作用有限，需“推—拉”组合政策并配合充电网络信心建设。
+
+限制：仅有摘要，未提供模型方程、参数校准细节与验证结果；研究对象为交通能源与政策系统，不涉及任何医学任务、患者或生理状态，无法核验其代码与实验实现。
+
+判断：主题为重型货车零排放转型的交通能源政策系统动力学建模，既无医学任务，也无患者、细胞、分子或生理状态等生物医学状态，亦不涉及经学习或混合方式建模的临床转移动力学，故不属于生物医学世界模型综述范围。
+
+证据层级：abstract；[来源](https://arxiv.org/abs/2610.41042)；模型：qoder-cn/dfmodel。
+
+Full-text access failed (HTTPError); abstract retained.
 
 ### [Nerandomilast is Associated With Altered Alveolar Epithelial Cell State Dynamics While Attenuating Fibrotic Remodeling in Pulmonary Fibrosis.](https://europepmc.org/article/MED/42827411)
 

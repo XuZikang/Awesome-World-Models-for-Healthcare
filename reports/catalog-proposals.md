@@ -22,3 +22,24 @@
 - state：encode the protein structure S (Φ, Ψ dihedrals and C α distances from native)
 
 [全文证据](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13625212/fullTextXML)
+
+## PulmoWorld: An Asynchronous Multimodal Medical World Model for Longitudinal Pneumonia Dynamics
+
+年度：2026；主题：Medical Imaging and Radiology、Longitudinal EHR and Clinical Trajectories、Treatment Planning and Clinical Decision Support
+
+```markdown
+- (*arXiv'26*) **PulmoWorld: An Asynchronous Multimodal Medical World Model for Longitudinal Pneumonia Dynamics**
+  [[📝 Paper](https://arxiv.org/abs/2610.38289)]
+  **Metadata:** `State: Patient` · `Dynamics: Action-conditioned + Temporal` · `Capability: Forecast + Simulate + Plan + Control + Counterfactual` · `Assets: Paper only`
+  > **Why it qualifies:** 论文满足纳入标准：肺炎医疗任务、患者潜在状态、学习的异步状态转移与动作条件动力学、H1–H4递归rollout，以及MASS/MIMIC和MASS-Syn上的实现评估。
+```
+
+### 方法证据
+
+- dynamics：History-aware filtering separates state propagation from observation-driven correction, so a measurement updates the shared belief only when it is observed.
+- evaluation：On the pneumonia cohort MASS, recursive forecasts are competitive with task-trained sequence models
+- medical：a world model for longitudinal pneumonia dynamics that connects asynchronous state estimation
+- rollout：Recursive forecasts advance H1–H4 without factual intermediate observations.
+- state：A shared patient world for longitudinal simulation and evidence-constrained planning.
+
+[全文证据](https://arxiv.org/html/2610.38289v1)
