@@ -1,0 +1,20 @@
+{
+  "initial_days": 30,
+  "overlap_days": 7,
+  "max_records_per_query": 500,
+  "max_analyses_per_run": 100,
+  "sources": {
+    "arxiv": [
+      "(ti:\"world model\" OR abs:\"world model\" OR ti:\"digital twin\" OR abs:\"digital twin\") AND (all:medical OR all:clinical OR all:healthcare OR all:patient OR all:surgical OR all:biomedical OR all:cell)",
+      "(ti:\"neural ODE\" OR ti:\"state dynamics\" OR ti:\"treatment simulation\" OR ti:\"dynamics model\" OR ti:\"trajectory forecasting\") AND (all:patient OR all:clinical OR all:surgical OR all:cell OR all:biomedical)"
+    ],
+    "europepmc": [
+      "(TITLE_ABS:\"world model\" OR TITLE_ABS:\"digital twin\") AND (medical OR clinical OR healthcare OR patient OR surgical OR biomedical OR cell)",
+      "(TITLE_ABS:\"neural ODE\" OR TITLE_ABS:\"patient dynamics\" OR TITLE_ABS:\"cell-state dynamics\" OR TITLE_ABS:\"treatment simulation\")"
+    ],
+    "pubmed": [
+      "(\"world model\"[Title/Abstract] OR \"digital twin\"[Title/Abstract]) AND (medical OR clinical OR healthcare OR patient OR surgical OR biomedical OR cell)",
+      "(\"neural ODE\"[Title/Abstract] OR \"patient dynamics\"[Title/Abstract] OR \"cell-state dynamics\"[Title/Abstract] OR \"treatment simulation\"[Title/Abstract])"
+    ]
+  }
+}

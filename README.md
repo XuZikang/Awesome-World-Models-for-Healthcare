@@ -1524,6 +1524,10 @@ If this catalog supports your research, please cite the repository using the met
 
 ## 🤝 Contributing
 
+For scheduled literature discovery, local daily/weekly digests, and evidence-backed catalog proposals, see the [literature automation guide](docs/literature-automation.md). Generated candidates remain separate from this curated main list.
+
+Automated candidate updates run every Sunday at 09:37 Asia/Shanghai using Qoder DeepSeek. Read the [Chinese digest](https://github.com/XuZikang/Awesome-World-Models-for-Healthcare/blob/literature-data/reports/latest.md), [weekly topic index](https://github.com/XuZikang/Awesome-World-Models-for-Healthcare/blob/literature-data/reports/weekly.md), and [evidence-backed catalog proposals](https://github.com/XuZikang/Awesome-World-Models-for-Healthcare/blob/literature-data/reports/catalog-proposals.md) on the `literature-data` branch. These are machine suggestions awaiting review.
+
 Contributions are welcome. Please read the [contribution guide](CONTRIBUTING.md) before proposing a paper or resource. Main-list paper submissions must provide source-grounded evidence for the modeled state, transition dynamics, rollout capability, and medical task. You can submit a pull request or [suggest a paper through the structured issue form](https://github.com/chengwang96/Awesome-World-Models-for-Healthcare/issues/new?template=01-paper-suggestion.yml).
 
 Entry format:

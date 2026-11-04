@@ -1,0 +1,10 @@
+[Unit]
+Description=Weekly healthcare literature update (Sunday 09:37 Asia/Shanghai)
+
+[Timer]
+OnCalendar=Sun *-*-* 01:37:00 UTC
+Persistent=true
+Unit=literature-weekly.service
+
+[Install]
+WantedBy=timers.target
