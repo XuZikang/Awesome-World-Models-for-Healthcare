@@ -1,68 +1,68 @@
 {
   "analysis": {
-    "available_reviews": 32,
-    "failures": 19,
+    "available_reviews": 87,
+    "failures": 0,
     "mode": "model",
-    "pending": 17,
-    "reviewed": 0
+    "pending": 1,
+    "reviewed": 80
   },
-  "candidates": 49,
-  "changed_today": 17,
-  "date": "2026-11-08",
+  "candidates": 88,
+  "changed_today": 81,
+  "date": "2026-11-15",
   "sources": [
     {
       "complete": true,
       "query_id": "0b853c5d2ddf",
-      "records": 9,
-      "since": "2026-10-28",
+      "records": 18,
+      "since": "2026-11-01",
       "source": "arxiv",
-      "total": 9,
-      "until": "2026-11-08"
+      "total": 18,
+      "until": "2026-11-15"
     },
     {
       "complete": true,
       "query_id": "974e2bc9882c",
-      "records": 1,
-      "since": "2026-10-28",
+      "records": 0,
+      "since": "2026-11-01",
       "source": "arxiv",
-      "total": 1,
-      "until": "2026-11-08"
+      "total": 0,
+      "until": "2026-11-15"
     },
     {
       "complete": true,
       "query_id": "f74b0612eaf2",
-      "records": 13,
-      "since": "2026-10-28",
+      "records": 31,
+      "since": "2026-11-01",
       "source": "europepmc",
-      "total": 13,
-      "until": "2026-11-08"
+      "total": 31,
+      "until": "2026-11-15"
     },
     {
       "complete": true,
       "query_id": "f11522d6c8db",
-      "records": 3,
-      "since": "2026-10-28",
+      "records": 4,
+      "since": "2026-11-01",
       "source": "europepmc",
-      "total": 3,
-      "until": "2026-11-08"
+      "total": 4,
+      "until": "2026-11-15"
     },
     {
       "complete": true,
       "query_id": "e190f0b25756",
-      "records": 34,
-      "since": "2026-10-28",
+      "records": 42,
+      "since": "2026-11-01",
       "source": "pubmed",
-      "total": 34,
-      "until": "2026-11-08"
+      "total": 42,
+      "until": "2026-11-15"
     },
     {
       "complete": true,
       "query_id": "1a5e763292f9",
-      "records": 2,
-      "since": "2026-10-28",
+      "records": 3,
+      "since": "2026-11-01",
       "source": "pubmed",
-      "total": 2,
-      "until": "2026-11-08"
+      "total": 3,
+      "until": "2026-11-15"
     }
   ]
 }
