@@ -1,68 +1,68 @@
 {
   "analysis": {
-    "available_reviews": 87,
-    "failures": 0,
+    "available_reviews": 114,
+    "failures": 1,
     "mode": "model",
     "pending": 1,
-    "reviewed": 80
+    "reviewed": 88
   },
-  "candidates": 88,
-  "changed_today": 81,
-  "date": "2026-11-15",
+  "candidates": 115,
+  "changed_today": 88,
+  "date": "2026-11-22",
   "sources": [
     {
       "complete": true,
       "query_id": "0b853c5d2ddf",
-      "records": 18,
-      "since": "2026-11-01",
+      "records": 17,
+      "since": "2026-11-08",
       "source": "arxiv",
-      "total": 18,
-      "until": "2026-11-15"
+      "total": 17,
+      "until": "2026-11-22"
     },
     {
       "complete": true,
       "query_id": "974e2bc9882c",
       "records": 0,
-      "since": "2026-11-01",
+      "since": "2026-11-08",
       "source": "arxiv",
       "total": 0,
-      "until": "2026-11-15"
+      "until": "2026-11-22"
     },
     {
       "complete": true,
       "query_id": "f74b0612eaf2",
-      "records": 31,
-      "since": "2026-11-01",
+      "records": 24,
+      "since": "2026-11-08",
       "source": "europepmc",
-      "total": 31,
-      "until": "2026-11-15"
+      "total": 24,
+      "until": "2026-11-22"
     },
     {
       "complete": true,
       "query_id": "f11522d6c8db",
-      "records": 4,
-      "since": "2026-11-01",
+      "records": 1,
+      "since": "2026-11-08",
       "source": "europepmc",
-      "total": 4,
-      "until": "2026-11-15"
+      "total": 1,
+      "until": "2026-11-22"
     },
     {
       "complete": true,
       "query_id": "e190f0b25756",
-      "records": 42,
-      "since": "2026-11-01",
+      "records": 22,
+      "since": "2026-11-08",
       "source": "pubmed",
-      "total": 42,
-      "until": "2026-11-15"
+      "total": 22,
+      "until": "2026-11-22"
     },
     {
       "complete": true,
       "query_id": "1a5e763292f9",
-      "records": 3,
-      "since": "2026-11-01",
+      "records": 2,
+      "since": "2026-11-08",
       "source": "pubmed",
-      "total": 3,
-      "until": "2026-11-15"
+      "total": 2,
+      "until": "2026-11-22"
     }
   ]
 }

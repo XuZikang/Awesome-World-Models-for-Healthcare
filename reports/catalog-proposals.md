@@ -107,6 +107,27 @@
 
 [全文证据](https://arxiv.org/html/2611.09712v1)
 
+## Transcriptome-Informed Digital Twins Reveal a Functional Response Landscape in Prostate Cancer.
+
+年度：2026；主题：Computational Biology and Cellular Dynamics
+
+```markdown
+- (*Paper'26*) **Transcriptome-Informed Digital Twins Reveal a Functional Response Landscape in Prostate Cancer.**
+  [[📝 Paper](https://europepmc.org/article/MED/43028297)]
+  **Metadata:** `State: Cell` · `Dynamics: Mechanistic + Temporal + Action-conditioned` · `Capability: Simulate + Counterfactual + Forecast` · `Assets: Paper only`
+  > **Why it qualifies:** 全文提供医学任务、可个性化状态、机制/数据混合动力学、扰动下时序推演及已实现评估，符合纳入条件；其能力为机制性反事实模拟而非自主临床预测。
+```
+
+### 方法证据
+
+- dynamics：a shared mechanistic model is personalised using molecular data from an individual tumour
+- evaluation：The direction of the simulated AR-suppression responses was compared with two independent, publicly available transcriptomic datasets
+- medical：characterise patient-specific functional response behaviour in prostate cancer
+- rollout：Each digital twin was simulated under baseline conditions and five perturbation scenarios
+- state：The resulting node scores provided the molecular state representation for each tumour sample.
+
+[全文证据](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13763592/fullTextXML)
+
 ## Personalized health coaching via coachable health age and counterfactual wearable trajectories
 
 年度：2026；主题：Longitudinal EHR and Clinical Trajectories、Treatment Planning and Clinical Decision Support
@@ -191,6 +212,48 @@
 
 [全文证据](https://arxiv.org/html/2610.38289v1)
 
+## MitoWorld: A Stochastic World Model of the Single-Cell Cycle under Genetic Perturbation
+
+年度：2026；主题：Computational Biology and Cellular Dynamics
+
+```markdown
+- (*arXiv'26*) **MitoWorld: A Stochastic World Model of the Single-Cell Cycle under Genetic Perturbation**
+  [[📝 Paper](https://arxiv.org/abs/2611.23953)]
+  **Metadata:** `State: Cell` · `Dynamics: Temporal + Event sequence` · `Capability: Forecast + Simulate` · `Assets: Paper only`
+  > **Why it qualifies:** 该文提出面向基因扰动下单细胞周期的随机世界模型，包含细胞状态、学习到的随机转移、分裂事件终止和扩散渲染，并执行多步 rollout；在 325 条留出 MitoCheck 轨迹上报告 FID、JEDi、区间覆盖与分裂时间 KS 等实现评估，满足医学任务、状态、动力学、rollout 与评估五项标准，因此建议纳入。
+```
+
+### 方法证据
+
+- dynamics：a gene-conditioned stochastic transition propagates it through time
+- evaluation：On 325 held-out MitoCheck tracks, we demonstrate MitoWorld’s forecast fidelity, uncertainty quantification, and cell-cycle timing
+- medical：We therefore aim to model an observed cell’s future appearance distribution under a given gene knockdown until division
+- rollout：MitoWorld rolls out stochastic latent trajectories, renders every step
+- state：MitoWorld encodes an observed cell in a Gaussian-regularized latent space
+
+[全文证据](https://arxiv.org/html/2611.23953v1)
+
+## When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support
+
+年度：2026；主题：Longitudinal EHR and Clinical Trajectories、Treatment Planning and Clinical Decision Support
+
+```markdown
+- (*arXiv'26*) **When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support**
+  [[📝 Paper](https://arxiv.org/abs/2611.18458)]
+  **Metadata:** `State: Physiology` · `Dynamics: Action-conditioned + Temporal` · `Capability: Forecast + Simulate` · `Assets: Paper only`
+  > **Why it qualifies:** 全文给出ICU血管升压药决策支持任务、患者生理状态、学习型动作条件短期动力学及eICU多医院留出评估，满足纳入要素；但作者限定为回顾性预测与界面行为，不主张因果或临床获益。
+```
+
+### 方法证据
+
+- dynamics：A candidate action is embedded and concatenated to h t h_{t} before prediction
+- evaluation：Evaluation on eICU-CRD includes 70 hospitals and 30,700 decision transitions
+- medical：A recurrent dynamics ensemble predicts short-horizon physiological responses to documented norepinephrine dose categories
+- rollout：A recurrent dynamics ensemble predicts short-horizon physiological responses
+- state：mean arterial pressure (MAP) and heart rate summarized over
+
+[全文证据](https://arxiv.org/html/2611.18458v1)
+
 ## The Delta Gap: Cellular World Models for Perturbation Response Prediction Are Far Harder Than Global Correlation Implies
 
 年度：2026；主题：Computational Biology and Cellular Dynamics
@@ -232,3 +295,24 @@
 - state：target surgical context, which is represented by a single frame
 
 [全文证据](https://arxiv.org/html/2611.05443v1)
+
+## High-dimensional neural ODE model to characterize clinical pharmacokinetics of MMAE-based antibody-drug conjugates.
+
+年度：2026；主题：Computational Biology and Cellular Dynamics
+
+```markdown
+- (*Paper'26*) **High-dimensional neural ODE model to characterize clinical pharmacokinetics of MMAE-based antibody-drug conjugates.**
+  [[📝 Paper](https://europepmc.org/article/MED/43043563)]
+  **Metadata:** `State: Molecule` · `Dynamics: Temporal` · `Capability: Forecast + Simulate` · `Assets: Paper only`
+  > **Why it qualifies:** 全文报告了临床药代动力学任务、多分析物系统状态、由神经常微分方程学习的连续时间转移、多剂量情景下的轨迹推演，以及预测误差与交叉验证等具体评估，满足建议纳入条件。
+```
+
+### 方法证据
+
+- dynamics：time is not an input to the NN; the NODE vector field is therefore autonomous
+- evaluation：The average pooled percent prediction error (%PE) across studies was 9.4, -11, 6.6, and 40
+- medical：clinical PK data from 18 different MMAE-based ADCs was pooled from publications
+- rollout：the trained NODEs were given the dosage from the first dosing event into the designated compartments
+- state：The analytes used for modeling included total monoclonal antibodies (tmAbs), antibody-conjugated MMAE (acMMAE), free MMAE (fMMAE), and ADC
+
+[全文证据](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13777853/fullTextXML)
